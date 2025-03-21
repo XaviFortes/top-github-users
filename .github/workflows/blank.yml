@@ -18,3 +18,5 @@ jobs:
       - uses: xavifortes/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
