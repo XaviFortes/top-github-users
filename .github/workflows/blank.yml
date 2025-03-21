@@ -1,0 +1,20 @@
+name: Top GitHub Users
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  release:
+    name: GitHub Active Users
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.CUSTOM_TOKEN }}
+      - uses: actions/setup-node@v4.3.0
+        with:
+          node-version: 14.17.0
+      - uses: xavifortes/top-github-users-action@master
+        env:
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
