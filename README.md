@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/xavifortes/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/3/21 10:21 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/3/21 11:23 AM UTC`.
 
-This repository contains users `6 countries` and `38 cities`. 
+This repository contains users `3 countries` and `13 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/XaviFortes/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [xavifortes/top-github-users-action](https://github.com/xavifortes/top-github-users-action). The project maintained by [xavifortes](https://github.com/xavifortes). Don't forget to follow him on [GitHub](https://github.com/xavifortes), [Twitter](https://twitter.com/xavifortes), and [Medium](https://xavifortes.medium.com/).
@@ -93,23 +93,6 @@ Contribute to GitHub action [xavifortes/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/XaviFortes/top-github-users/blob/main/markdown/public_contributions/albania.md">
-				Albania
-			</a>
-		</td>
-		<td>
-			<code>Tirana</code> 
-			<code>Durrës</code> 
-			<code>Vlorë</code> 
-			<code>Elbasan</code> 
-			<code>Shkodër</code> 
-			<code>Kamëz</code> 
-			<code>Fier</code> 
-			<code>Korçë</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/XaviFortes/top-github-users/blob/main/markdown/public_contributions/andorra.md">
 				Andorra
 			</a>
@@ -119,41 +102,6 @@ Contribute to GitHub action [xavifortes/top-github-users-action](https://github.
 			<code>Santa-coloma</code> 
 			<code>La-margineda</code> 
 			<code>Engolasters</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/XaviFortes/top-github-users/blob/main/markdown/public_contributions/australia.md">
-				Australia
-			</a>
-		</td>
-		<td>
-			<code>Sydney</code> 
-			<code>Melbourne</code> 
-			<code>Perth</code> 
-			<code>Adelaide</code> 
-			<code>Brisbane</code> 
-			<code>Canberra</code> 
-			<code>Hobart</code> 
-			<code>Gold-coast</code> 
-			<code>Darwin</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/XaviFortes/top-github-users/blob/main/markdown/public_contributions/austria.md">
-				Austria
-			</a>
-		</td>
-		<td>
-			<code>Vienna</code> 
-			<code>Salzburg</code> 
-			<code>Innsbruck</code> 
-			<code>Linz</code> 
-			<code>Graz</code> 
-			<code>Klagenfurt</code> 
-			<code>Bregenz</code> 
-			<code>Villach</code> 
 		</td>
 	</tr>
 	<tr>
