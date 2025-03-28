@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/3/28 7:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/3/28 10:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -1200,7 +1200,7 @@ There are `385 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>85</td>
 		<td>
 			<a href="https://github.com/OvisWooloo">
-				<img src="https://avatars.githubusercontent.com/u/175656843?s=72&u=4dc71e58ce05e56ad85b09382b601e13173996d2&v=4" width="24" alt="Avatar of OvisWooloo"> OvisWooloo
+				<img src="https://avatars.githubusercontent.com/u/175656843?s=72&u=987c69d79919220872fb8fa109cdf4d6c80b1000&v=4" width="24" alt="Avatar of OvisWooloo"> OvisWooloo
 			</a><br/>
 			Ovis Wooloo
 		</td>
