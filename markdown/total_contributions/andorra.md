@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/3/29 5:11 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/3/29 8:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -495,7 +495,7 @@ There are `385 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>19</td>
-		<td>522</td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1326,6 +1326,20 @@ There are `385 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/ericrisco">
+				<img src="https://avatars.githubusercontent.com/u/20164590?s=72&u=46ae6af4530ef90ae233c36f2513c7c2dd3eb9e1&v=4" width="24" alt="Avatar of ericrisco"> ericrisco
+			</a><br/>
+			Eric Risco de la Torre
+		</td>
+		<td>Andorra Telecom </td>
+		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
+		<td>Andorra</td>
+		<td>27</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/KaratelSH">
 				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
 			</a><br/>
@@ -1338,7 +1352,7 @@ There are `385 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/IgorKokorev">
 				<img src="https://avatars.githubusercontent.com/u/125870261?s=72&u=3763c59476f9da6744cc5eecc4892df1a68c21b2&v=4" width="24" alt="Avatar of IgorKokorev"> IgorKokorev
@@ -1350,20 +1364,6 @@ There are `385 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>27</td>
 		<td>27</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/ericrisco">
-				<img src="https://avatars.githubusercontent.com/u/20164590?s=72&u=46ae6af4530ef90ae233c36f2513c7c2dd3eb9e1&v=4" width="24" alt="Avatar of ericrisco"> ericrisco
-			</a><br/>
-			Eric Risco de la Torre
-		</td>
-		<td>Andorra Telecom </td>
-		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
-		<td>Andorra</td>
-		<td>26</td>
-		<td>26</td>
 	</tr>
 	<tr>
 		<td>91</td>
