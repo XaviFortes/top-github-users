@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/4/18 12:19 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/4/18 3:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -509,7 +509,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>25</td>
-		<td>465</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -676,8 +676,8 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>267</td>
-		<td>319</td>
+		<td>270</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -724,6 +724,20 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>45</td>
 		<td>
+			<a href="https://github.com/cuva">
+				<img src="https://avatars.githubusercontent.com/u/1389642?s=72&u=5c053726cd29276833fb6db5cbffb6de3c47b78f&v=4" width="24" alt="Avatar of cuva"> cuva
+			</a><br/>
+			Hugo Cuvillier
+		</td>
+		<td>Raycast </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>0</td>
+		<td>269</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
 			<a href="https://github.com/ph3t">
 				<img src="https://avatars.githubusercontent.com/u/18530936?s=72&v=4" width="24" alt="Avatar of ph3t"> ph3t
 			</a><br/>
@@ -736,7 +750,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/GPradaT">
 				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
@@ -748,20 +762,6 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>156</td>
 		<td>263</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/cuva">
-				<img src="https://avatars.githubusercontent.com/u/1389642?s=72&u=5c053726cd29276833fb6db5cbffb6de3c47b78f&v=4" width="24" alt="Avatar of cuva"> cuva
-			</a><br/>
-			Hugo Cuvillier
-		</td>
-		<td>Raycast </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>0</td>
-		<td>259</td>
 	</tr>
 	<tr>
 		<td>48</td>
