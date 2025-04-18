@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/4/18 6:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/4/18 9:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -206,7 +206,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@tanukilabs </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>97</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -531,7 +531,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@moveworkforward  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>24</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -1056,19 +1056,6 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>74</td>
 		<td>
-			<a href="https://github.com/jcerdan">
-				<img src="https://avatars.githubusercontent.com/u/532007?s=72&v=4" width="24" alt="Avatar of jcerdan"> jcerdan
-			</a><br/>
-			Jordi Cerdan
-		</td>
-		<td>Tecob </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
 			<a href="https://github.com/guillemfrancisco">
 				<img src="https://avatars.githubusercontent.com/u/28984116?s=72&u=3818847df6b76eb363ca644fdeb383d154c582a8&v=4" width="24" alt="Avatar of guillemfrancisco"> guillemfrancisco
 			</a><br/>
@@ -1080,7 +1067,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/jrlambea">
 				<img src="https://avatars.githubusercontent.com/u/6108794?s=72&u=1c80895552b228cde30a3b2040565f0c1c422969&v=4" width="24" alt="Avatar of jrlambea"> jrlambea
@@ -1093,7 +1080,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/apascualagut">
 				<img src="https://avatars.githubusercontent.com/u/34001956?s=72&u=126b77d79d3e158231bfe74a7636cf903c0032e4&v=4" width="24" alt="Avatar of apascualagut"> apascualagut
@@ -1106,7 +1093,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
@@ -1119,7 +1106,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/jrecasens95">
 				<img src="https://avatars.githubusercontent.com/u/37191997?s=72&u=2603294942c74d995fa7fc882da7227519d516dc&v=4" width="24" alt="Avatar of jrecasens95"> jrecasens95
@@ -1132,7 +1119,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/PaulMatencio">
 				<img src="https://avatars.githubusercontent.com/u/5259065?s=72&v=4" width="24" alt="Avatar of PaulMatencio"> PaulMatencio
@@ -1145,7 +1132,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/DiMiTriFrog">
 				<img src="https://avatars.githubusercontent.com/u/38754548?s=72&u=16e081a04e02802f528110a8582ab442a172e373&v=4" width="24" alt="Avatar of DiMiTriFrog"> DiMiTriFrog
@@ -1158,7 +1145,7 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/ailtonluiz">
 				<img src="https://avatars.githubusercontent.com/u/12979391?s=72&u=80e66110dafc7102b58004b5b9ecb333585f9106&v=4" width="24" alt="Avatar of ailtonluiz"> ailtonluiz
@@ -1168,6 +1155,19 @@ There are `388 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Ailton Luiz Consultor De<br/>Ti<br/></td>
 		<td><a href="https://twitter.com/ailtonluiz_">ailtonluiz_</a></td>
 		<td>Pas de la Casa - Andorra</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/jcerdan">
+				<img src="https://avatars.githubusercontent.com/u/532007?s=72&v=4" width="24" alt="Avatar of jcerdan"> jcerdan
+			</a><br/>
+			Jordi Cerdan
+		</td>
+		<td>Tecob </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>6</td>
 	</tr>
 	<tr>
