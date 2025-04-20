@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/4/19 10:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/4/20 2:30 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -327,7 +327,7 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>889</td>
+		<td>895</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -1102,6 +1102,20 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/Franco-Lobos">
+				<img src="https://avatars.githubusercontent.com/u/85533059?s=72&u=e276cf9589fe6ffd226ae74fd14cdd66768560c7&v=4" width="24" alt="Avatar of Franco-Lobos"> Franco-Lobos
+			</a><br/>
+			Franco Lobos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>50</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/MartaSanchez">
 				<img src="https://avatars.githubusercontent.com/u/17227592?s=72&u=eebacf1e215354f48ab27ae3de4b7a00e1137286&v=4" width="24" alt="Avatar of MartaSanchez"> MartaSanchez
 			</a><br/>
@@ -1112,20 +1126,6 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>68</td>
 		<td>68</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/Franco-Lobos">
-				<img src="https://avatars.githubusercontent.com/u/85533059?s=72&u=e276cf9589fe6ffd226ae74fd14cdd66768560c7&v=4" width="24" alt="Avatar of Franco-Lobos"> Franco-Lobos
-			</a><br/>
-			Franco Lobos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>38</td>
-		<td>61</td>
 	</tr>
 	<tr>
 		<td>74</td>
