@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/4/26 2:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/4/26 5:10 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -327,7 +327,7 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>888</td>
+		<td>893</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -696,6 +696,20 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/cuva">
+				<img src="https://avatars.githubusercontent.com/u/1389642?s=72&u=5c053726cd29276833fb6db5cbffb6de3c47b78f&v=4" width="24" alt="Avatar of cuva"> cuva
+			</a><br/>
+			Hugo Cuvillier
+		</td>
+		<td>Raycast </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>0</td>
+		<td>304</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/FredericLatour">
 				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
 			</a><br/>
@@ -706,20 +720,6 @@ There are `389 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>46</td>
 		<td>298</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/cuva">
-				<img src="https://avatars.githubusercontent.com/u/1389642?s=72&u=5c053726cd29276833fb6db5cbffb6de3c47b78f&v=4" width="24" alt="Avatar of cuva"> cuva
-			</a><br/>
-			Hugo Cuvillier
-		</td>
-		<td>Raycast </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>0</td>
-		<td>296</td>
 	</tr>
 	<tr>
 		<td>45</td>
