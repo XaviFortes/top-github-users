@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/4/29 9:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/4/29 12:22 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
-There are `391 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `392 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -349,7 +349,7 @@ There are `391 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
-		<td>48</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -2097,7 +2097,7 @@ There are `391 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>154</td>
 		<td>
 			<a href="https://github.com/mariabracque">
-				<img src="https://avatars.githubusercontent.com/u/144768553?s=72&u=08b1f7d7583c437066fa6747d059a81919b380c2&v=4" width="24" alt="Avatar of mariabracque"> mariabracque
+				<img src="https://avatars.githubusercontent.com/u/144768553?s=72&u=043e977b7a0acaa58375956a75be57c710aba4ae&v=4" width="24" alt="Avatar of mariabracque"> mariabracque
 			</a><br/>
 			Maria Bracque Vendrell
 		</td>
