@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/5/13 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/5/13 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -250,6 +250,19 @@ There are `392 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/devictoribero">
+				<img src="https://avatars.githubusercontent.com/u/16169890?s=72&u=e15b7a1cc639176e83b153883be2d83a8988b582&v=4" width="24" alt="Avatar of devictoribero"> devictoribero
+			</a><br/>
+			Victor Ribero
+		</td>
+		<td>Maze </td>
+		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
+		<td>Andorra</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/casasin">
 				<img src="https://avatars.githubusercontent.com/u/1898042?s=72&u=4a08f3da4884839946a8e1578b36fdad5beef367&v=4" width="24" alt="Avatar of casasin"> casasin
 			</a><br/>
@@ -259,19 +272,6 @@ There are `392 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona/Santa Coloma de Queralt</td>
 		<td>167</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/devictoribero">
-				<img src="https://avatars.githubusercontent.com/u/16169890?s=72&u=e15b7a1cc639176e83b153883be2d83a8988b582&v=4" width="24" alt="Avatar of devictoribero"> devictoribero
-			</a><br/>
-			Victor Ribero
-		</td>
-		<td>Maze </td>
-		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
-		<td>Andorra</td>
-		<td>157</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -479,7 +479,7 @@ There are `392 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Telecom </td>
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
 		<td>Andorra</td>
-		<td>71</td>
+		<td>72</td>
 	</tr>
 	<tr>
 		<td>30</td>
