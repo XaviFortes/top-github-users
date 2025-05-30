@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2025/5/30 3:46 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2025/5/30 6:24 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -144,8 +144,8 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>@miniclip </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>12402</td>
-		<td>12866</td>
+		<td>12408</td>
+		<td>12872</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -494,8 +494,8 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>Coralogix </td>
 		<td><a href="https://twitter.com/ntakashics">ntakashics</a></td>
 		<td>Braga - Portugal</td>
-		<td>1353</td>
-		<td>3487</td>
+		<td>1354</td>
+		<td>3488</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1433,7 +1433,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
 		<td>82</td>
-		<td>1956</td>
+		<td>1957</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1544,8 +1544,8 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>@chainsafe  </td>
 		<td><a href="https://twitter.com/nicoflaig">nicoflaig</a></td>
 		<td>Portugal</td>
-		<td>1504</td>
-		<td>1832</td>
+		<td>1505</td>
+		<td>1833</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -2385,7 +2385,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td><a href="https://twitter.com/lucasmonstrox">lucasmonstrox</a></td>
 		<td>Gaia, Portugal</td>
 		<td>56</td>
-		<td>1288</td>
+		<td>1292</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2468,8 +2468,8 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/my_olive_tree">my_olive_tree</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>1190</td>
-		<td>1249</td>
+		<td>1191</td>
+		<td>1250</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -3239,7 +3239,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
 		<td>925</td>
-		<td>948</td>
+		<td>949</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -4036,8 +4036,8 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>@nable-org </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon, Portugal</td>
-		<td>221</td>
-		<td>720</td>
+		<td>222</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -4079,7 +4079,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
 		<td>26</td>
-		<td>713</td>
+		<td>714</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -5227,7 +5227,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Brazil and Portugal</td>
 		<td>123</td>
-		<td>478</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>367</td>
@@ -8013,7 +8013,7 @@ There are `968 users`  in Portugal. You need at least `73 followers` to be on th
 		<td><a href="https://twitter.com/romanshamin_en">romanshamin_en</a></td>
 		<td>Lisbon</td>
 		<td>10</td>
-		<td>133</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>566</td>
