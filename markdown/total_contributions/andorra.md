@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/5/30 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/5/30 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -691,7 +691,7 @@ There are `394 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
 		<td>Andorra</td>
 		<td>60</td>
-		<td>338</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -794,6 +794,20 @@ There are `394 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>50</td>
 		<td>
+			<a href="https://github.com/FredericLatour">
+				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
+			</a><br/>
+			Frederic
+		</td>
+		<td>Enesys </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>9</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
 			<a href="https://github.com/madeinchema">
 				<img src="https://avatars.githubusercontent.com/u/26657998?s=72&u=4404d7e80292fbdcb3ddbfc8aaeafa9d6d7bc6ac&v=4" width="24" alt="Avatar of madeinchema"> madeinchema
 			</a><br/>
@@ -804,20 +818,6 @@ There are `394 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra La Vella, Andorra</td>
 		<td>2</td>
 		<td>256</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/FredericLatour">
-				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
-			</a><br/>
-			Frederic
-		</td>
-		<td>Enesys </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>8</td>
-		<td>254</td>
 	</tr>
 	<tr>
 		<td>52</td>
