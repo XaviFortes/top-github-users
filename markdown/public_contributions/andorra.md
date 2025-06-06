@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/6/6 6:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/6/6 9:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -479,7 +479,7 @@ There are `396 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>73</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -705,19 +705,6 @@ There are `396 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/alexenc">
-				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
-			</a><br/>
-			Alex Encinas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
 			<a href="https://github.com/lluisfranco">
 				<img src="https://avatars.githubusercontent.com/u/6582934?s=72&u=67d0b209b7cba45376babb36de38228a28ec5834&v=4" width="24" alt="Avatar of lluisfranco"> lluisfranco
 			</a><br/>
@@ -726,6 +713,19 @@ There are `396 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@falconft  </td>
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/alexenc">
+				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
+			</a><br/>
+			Alex Encinas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -1358,7 +1358,7 @@ There are `396 users`  in Andorra. You need at least `0 followers` to be on this
 			<a href="https://github.com/EdKenbers">
 				<img src="https://avatars.githubusercontent.com/u/7468461?s=72&u=e61549f54759c14cb4c80d41b2a22aabb8575789&v=4" width="24" alt="Avatar of EdKenbers"> EdKenbers
 			</a><br/>
-			EdKenbers
+			Edgar Ordoñez Tenorio
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EdKenbers">EdKenbers</a></td>
