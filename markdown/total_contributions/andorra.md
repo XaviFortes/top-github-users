@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/6/15 6:16 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/6/15 9:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -467,7 +467,7 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/matchilling">matchilling</a></td>
 		<td>Andorra</td>
 		<td>26</td>
-		<td>638</td>
+		<td>640</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -710,6 +710,20 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/jgimeno">
+				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
+			</a><br/>
+			Jonathan Gimeno
+		</td>
+		<td>@nibiruchain </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>7</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
 			<a href="https://github.com/jjfrutos">
 				<img src="https://avatars.githubusercontent.com/u/2398936?s=72&v=4" width="24" alt="Avatar of jjfrutos"> jjfrutos
 			</a><br/>
@@ -720,20 +734,6 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Santa Coloma de Gramenet</td>
 		<td>1</td>
 		<td>298</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/jgimeno">
-				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
-			</a><br/>
-			Jonathan Gimeno
-		</td>
-		<td>@nibiruchain </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>7</td>
-		<td>297</td>
 	</tr>
 	<tr>
 		<td>46</td>
