@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/6/20 5:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/6/20 8:17 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
-There are `398 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `399 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Block 6.282e+10 </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>1234</td>
+		<td>1240</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -2330,6 +2330,19 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/claudi-amorim">
+				<img src="https://avatars.githubusercontent.com/u/205952526?s=72&v=4" width="24" alt="Avatar of claudi-amorim"> claudi-amorim
+			</a><br/>
+			Claudi Amorim
+		</td>
+		<td>Creand </td>
+		<td>No Twitter Username</td>
+		<td>Andorra La Vella</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/wSycro">
 				<img src="https://avatars.githubusercontent.com/u/178681752?s=72&u=7235e3f2963f9832a0c0b881fbf05600de8d889b&v=4" width="24" alt="Avatar of wSycro"> wSycro
 			</a><br/>
@@ -2341,7 +2354,7 @@ There are `398 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/GTAZoneHub">
 				<img src="https://avatars.githubusercontent.com/u/195034469?s=72&u=394607eb16d86ef35f87511e7b15d24898d0df5b&v=4" width="24" alt="Avatar of GTAZoneHub"> GTAZoneHub
