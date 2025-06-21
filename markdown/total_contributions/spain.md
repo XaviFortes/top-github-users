@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` and `private contributions` by users in Spain on `2025/6/20 10:19 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` and `private contributions` by users in Spain on `2025/6/21 2:37 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -131,7 +131,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Huelva, Spain</td>
 		<td>10</td>
-		<td>18136</td>
+		<td>18137</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>@posit-pbc </td>
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
-		<td>10880</td>
-		<td>10977</td>
+		<td>10883</td>
+		<td>10980</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -186,8 +186,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Ska,  Iaa-csic, University<br/>Of<br/>Granada<br/></td>
 		<td><a href="https://twitter.com/manugrapevine">manugrapevine</a></td>
 		<td>Granada, Spain</td>
-		<td>9212</td>
-		<td>9212</td>
+		<td>9217</td>
+		<td>9217</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -368,8 +368,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>University Of Almería </td>
 		<td>No Twitter Username</td>
 		<td>Almeria (Spain)</td>
-		<td>4402</td>
-		<td>4751</td>
+		<td>4411</td>
+		<td>4760</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -424,8 +424,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>@microlinkhq </td>
 		<td><a href="https://twitter.com/Kikobeats">Kikobeats</a></td>
 		<td>Murcia, Spain</td>
-		<td>2838</td>
-		<td>4667</td>
+		<td>2841</td>
+		<td>4671</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -551,7 +551,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Alicante, Valencian Community, Spain</td>
 		<td>1246</td>
-		<td>3770</td>
+		<td>3771</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -592,8 +592,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Mouredev By Brais Moure<br/></td>
 		<td>No Twitter Username</td>
 		<td>Building software with  ♥ from Galicia (Spain) to the world.</td>
-		<td>3458</td>
-		<td>3704</td>
+		<td>3460</td>
+		<td>3706</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -634,8 +634,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/josembarroso">josembarroso</a></td>
 		<td>Cádiz, Spain</td>
-		<td>3509</td>
-		<td>3530</td>
+		<td>3510</td>
+		<td>3531</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -691,7 +691,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Spain</td>
 		<td>38</td>
-		<td>3457</td>
+		<td>3459</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -858,8 +858,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Barcelona Supercomputing Center </td>
 		<td><a href="https://twitter.com/kinow">kinow</a></td>
 		<td>Barcelona, Spain</td>
-		<td>3109</td>
-		<td>3165</td>
+		<td>3111</td>
+		<td>3167</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1320,8 +1320,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Hupba </td>
 		<td><a href="https://twitter.com/johnnync13">johnnync13</a></td>
 		<td>Barcelona</td>
-		<td>1915</td>
-		<td>2181</td>
+		<td>1916</td>
+		<td>2182</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1634,6 +1634,20 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 	<tr>
 		<td>110</td>
 		<td>
+			<a href="https://github.com/tshemsedinov">
+				<img src="https://avatars.githubusercontent.com/u/4405297?s=72&u=cda6702c4ff8d6f57d0e7c94966f4ee46753edd7&v=4" width="24" alt="Avatar of tshemsedinov"> tshemsedinov
+			</a><br/>
+			Timur Shemsedinov
+		</td>
+		<td>Architect At Metarhia; Lecturer<br/>At<br/>Kpi<br/></td>
+		<td><a href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
+		<td>Earth, Europe, Ukraine, Kiev, Kyiv, USA, Spain, Germany, Italy, China</td>
+		<td>1300</td>
+		<td>1863</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a href="https://github.com/fballiano">
 				<img src="https://avatars.githubusercontent.com/u/909743?s=72&v=4" width="24" alt="Avatar of fballiano"> fballiano
 			</a><br/>
@@ -1644,20 +1658,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Spain</td>
 		<td>1859</td>
 		<td>1859</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/tshemsedinov">
-				<img src="https://avatars.githubusercontent.com/u/4405297?s=72&u=cda6702c4ff8d6f57d0e7c94966f4ee46753edd7&v=4" width="24" alt="Avatar of tshemsedinov"> tshemsedinov
-			</a><br/>
-			Timur Shemsedinov
-		</td>
-		<td>Architect At Metarhia; Lecturer<br/>At<br/>Kpi<br/></td>
-		<td><a href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
-		<td>Earth, Europe, Ukraine, Kiev, Kyiv, USA, Spain, Germany, Italy, China</td>
-		<td>1294</td>
-		<td>1857</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1880,8 +1880,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>@apple </td>
 		<td><a href="https://twitter.com/crloscuesta">crloscuesta</a></td>
 		<td>Barcelona</td>
-		<td>591</td>
-		<td>1719</td>
+		<td>592</td>
+		<td>1720</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -2314,8 +2314,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Talking About Testing Online<br/>School<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Barcelona, Spain</td>
-		<td>1564</td>
-		<td>1564</td>
+		<td>1566</td>
+		<td>1566</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2343,7 +2343,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
 		<td>2</td>
-		<td>1532</td>
+		<td>1543</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2860,11 +2860,25 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Aarf4548">Aarf4548</a></td>
 		<td>Spain</td>
-		<td>1223</td>
-		<td>1281</td>
+		<td>1224</td>
+		<td>1282</td>
 	</tr>
 	<tr>
 		<td>198</td>
+		<td>
+			<a href="https://github.com/merlox">
+				<img src="https://avatars.githubusercontent.com/u/13392096?s=72&u=58a171205b0eb457448b531f4a58b39dd133f738&v=4" width="24" alt="Avatar of merlox"> merlox
+			</a><br/>
+			merlox
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/merunas2">merunas2</a></td>
+		<td>Madrid, Spain</td>
+		<td>23</td>
+		<td>1267</td>
+	</tr>
+	<tr>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/drhelius">
 				<img src="https://avatars.githubusercontent.com/u/863613?s=72&u=238c4335586d2329558a54675a6aeb1e0e69bd7c&v=4" width="24" alt="Avatar of drhelius"> drhelius
@@ -2876,20 +2890,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Madrid, Spain</td>
 		<td>1252</td>
 		<td>1267</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/merlox">
-				<img src="https://avatars.githubusercontent.com/u/13392096?s=72&u=58a171205b0eb457448b531f4a58b39dd133f738&v=4" width="24" alt="Avatar of merlox"> merlox
-			</a><br/>
-			merlox
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/merunas2">merunas2</a></td>
-		<td>Madrid, Spain</td>
-		<td>23</td>
-		<td>1263</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -3098,8 +3098,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Santander Bank </td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>1033</td>
-		<td>1190</td>
+		<td>1034</td>
+		<td>1191</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3645,7 +3645,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Madrid</td>
 		<td>196</td>
-		<td>1050</td>
+		<td>1053</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -3742,8 +3742,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>1003</td>
-		<td>1003</td>
+		<td>1005</td>
+		<td>1005</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -3798,8 +3798,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>@uc3m @ibidat </td>
 		<td><a href="https://twitter.com/Enchufa2">Enchufa2</a></td>
 		<td>Madrid, Spain</td>
-		<td>924</td>
-		<td>980</td>
+		<td>925</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>265</td>
@@ -4330,8 +4330,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Dekalabs </td>
 		<td><a href="https://twitter.com/pablosirera">pablosirera</a></td>
 		<td>Spain</td>
-		<td>517</td>
-		<td>822</td>
+		<td>518</td>
+		<td>823</td>
 	</tr>
 	<tr>
 		<td>303</td>
@@ -4372,8 +4372,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Alicante, Spain</td>
-		<td>40</td>
-		<td>815</td>
+		<td>41</td>
+		<td>816</td>
 	</tr>
 	<tr>
 		<td>306</td>
@@ -4924,6 +4924,20 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/macagua">
+				<img src="https://avatars.githubusercontent.com/u/185395?s=72&u=28c754f913f728091a1e8ef24e7063e42a998bc2&v=4" width="24" alt="Avatar of macagua"> macagua
+			</a><br/>
+			Leonardo J. Caballero G.
+		</td>
+		<td>Plone Venezuela </td>
+		<td><a href="https://twitter.com/macagua">macagua</a></td>
+		<td>Madrid, Spain</td>
+		<td>574</td>
+		<td>701</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/am-kantox">
 				<img src="https://avatars.githubusercontent.com/u/11388982?s=72&u=2f9847f8e8e1b04f89697e7df0d8db24684edbd1&v=4" width="24" alt="Avatar of am-kantox"> am-kantox
 			</a><br/>
@@ -4936,7 +4950,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>700</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/acaldero">
 				<img src="https://avatars.githubusercontent.com/u/5169583?s=72&u=b60715863e4748752b35401860a6e161c7262516&v=4" width="24" alt="Avatar of acaldero"> acaldero
@@ -4948,20 +4962,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Spain</td>
 		<td>658</td>
 		<td>700</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/macagua">
-				<img src="https://avatars.githubusercontent.com/u/185395?s=72&u=28c754f913f728091a1e8ef24e7063e42a998bc2&v=4" width="24" alt="Avatar of macagua"> macagua
-			</a><br/>
-			Leonardo J. Caballero G.
-		</td>
-		<td>Plone Venezuela </td>
-		<td><a href="https://twitter.com/macagua">macagua</a></td>
-		<td>Madrid, Spain</td>
-		<td>573</td>
-		<td>698</td>
 	</tr>
 	<tr>
 		<td>348</td>
@@ -6304,8 +6304,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Pinchito.es </td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>430</td>
-		<td>430</td>
+		<td>431</td>
+		<td>431</td>
 	</tr>
 	<tr>
 		<td>444</td>
@@ -6416,8 +6416,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Voicemod </td>
 		<td><a href="https://twitter.com/girlazote">girlazote</a></td>
 		<td>Barcelona</td>
-		<td>224</td>
-		<td>416</td>
+		<td>225</td>
+		<td>417</td>
 	</tr>
 	<tr>
 		<td>452</td>
@@ -6696,8 +6696,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Ruby, Javascript, Ts, Elixir,<br/>Rust,<br/>K8s,<br/>Lua,<br/>Nix,<br/>Pkl,<br/>Android<br/></td>
 		<td>No Twitter Username</td>
 		<td>Madrid | Amsterdam</td>
-		<td>371</td>
-		<td>371</td>
+		<td>372</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>472</td>
@@ -6934,8 +6934,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Desarrollo Y Digitalización Sectorial<br/>Sl<br/></td>
 		<td><a href="https://twitter.com/miguelex">miguelex</a></td>
 		<td>Huelva, Spain</td>
-		<td>311</td>
-		<td>311</td>
+		<td>312</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>489</td>
@@ -7178,6 +7178,20 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 	<tr>
 		<td>506</td>
 		<td>
+			<a href="https://github.com/antoniosarosi">
+				<img src="https://avatars.githubusercontent.com/u/54243067?s=72&u=9a825483d43a85b09d11d98d1cd5fe06f7377450&v=4" width="24" alt="Avatar of antoniosarosi"> antoniosarosi
+			</a><br/>
+			Antonio Sarosi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Spain</td>
+		<td>173</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
 			<a href="https://github.com/mgdelacroix">
 				<img src="https://avatars.githubusercontent.com/u/223323?s=72&u=e3f9377bdc7ac2503faa9d60033b8700d9702d8c&v=4" width="24" alt="Avatar of mgdelacroix"> mgdelacroix
 			</a><br/>
@@ -7190,7 +7204,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/frogg">
 				<img src="https://avatars.githubusercontent.com/u/5204169?s=72&u=b0be89ed94d8bb307d1f4865f94db7d81389346a&v=4" width="24" alt="Avatar of frogg"> frogg
@@ -7202,20 +7216,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Barcelona</td>
 		<td>17</td>
 		<td>277</td>
-	</tr>
-	<tr>
-		<td>508</td>
-		<td>
-			<a href="https://github.com/antoniosarosi">
-				<img src="https://avatars.githubusercontent.com/u/54243067?s=72&u=9a825483d43a85b09d11d98d1cd5fe06f7377450&v=4" width="24" alt="Avatar of antoniosarosi"> antoniosarosi
-			</a><br/>
-			Antonio Sarosi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Spain</td>
-		<td>170</td>
-		<td>276</td>
 	</tr>
 	<tr>
 		<td>509</td>
@@ -7271,7 +7271,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td><a href="https://twitter.com/andre_mc">andre_mc</a></td>
 		<td>Madrid ES</td>
 		<td>110</td>
-		<td>270</td>
+		<td>271</td>
 	</tr>
 	<tr>
 		<td>513</td>
@@ -7290,6 +7290,20 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 	<tr>
 		<td>514</td>
 		<td>
+			<a href="https://github.com/manuelbarzi">
+				<img src="https://avatars.githubusercontent.com/u/950133?s=72&v=4" width="24" alt="Avatar of manuelbarzi"> manuelbarzi
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/manuelbarzi">manuelbarzi</a></td>
+		<td>barcelona</td>
+		<td>146</td>
+		<td>268</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
 			<a href="https://github.com/pablohoffman">
 				<img src="https://avatars.githubusercontent.com/u/185212?s=72&u=14b9729735d2ccb1051144e4209be327385f9646&v=4" width="24" alt="Avatar of pablohoffman"> pablohoffman
 			</a><br/>
@@ -7302,7 +7316,7 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/frankykevin">
 				<img src="https://avatars.githubusercontent.com/u/49506511?s=72&u=e77567ef7f083ba31d4302a9979451776046f361&v=4" width="24" alt="Avatar of frankykevin"> frankykevin
@@ -7314,20 +7328,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>48011 Bilbao, Bizkaia, Spain</td>
 		<td>267</td>
 		<td>267</td>
-	</tr>
-	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/manuelbarzi">
-				<img src="https://avatars.githubusercontent.com/u/950133?s=72&v=4" width="24" alt="Avatar of manuelbarzi"> manuelbarzi
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/manuelbarzi">manuelbarzi</a></td>
-		<td>barcelona</td>
-		<td>146</td>
-		<td>266</td>
 	</tr>
 	<tr>
 		<td>517</td>
@@ -8096,8 +8096,8 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>@vulnyx  </td>
 		<td>No Twitter Username</td>
 		<td>Spain</td>
-		<td>201</td>
-		<td>201</td>
+		<td>202</td>
+		<td>202</td>
 	</tr>
 	<tr>
 		<td>572</td>
@@ -9488,6 +9488,20 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 	<tr>
 		<td>671</td>
 		<td>
+			<a href="https://github.com/BigETI">
+				<img src="https://avatars.githubusercontent.com/u/4518424?s=72&u=a93378ccc1d1fb130cf3d3505e12417232593c5f&v=4" width="24" alt="Avatar of BigETI"> BigETI
+			</a><br/>
+			Ethem Kurt
+		</td>
+		<td>The Tmrw Foundation </td>
+		<td><a href="https://twitter.com/TheBigETI">TheBigETI</a></td>
+		<td>Spain</td>
+		<td>88</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
 			<a href="https://github.com/xGaba">
 				<img src="https://avatars.githubusercontent.com/u/159527690?s=72&u=462599981603df98931c90a92335a8d9beb35a80&v=4" width="24" alt="Avatar of xGaba"> xGaba
 			</a><br/>
@@ -9498,20 +9512,6 @@ There are `949 users`  in Spain. You need at least `122 followers` to be on this
 		<td>Barcelona</td>
 		<td>86</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>672</td>
-		<td>
-			<a href="https://github.com/BigETI">
-				<img src="https://avatars.githubusercontent.com/u/4518424?s=72&u=a93378ccc1d1fb130cf3d3505e12417232593c5f&v=4" width="24" alt="Avatar of BigETI"> BigETI
-			</a><br/>
-			Ethem Kurt
-		</td>
-		<td>The Tmrw Foundation </td>
-		<td><a href="https://twitter.com/TheBigETI">TheBigETI</a></td>
-		<td>Spain</td>
-		<td>85</td>
-		<td>85</td>
 	</tr>
 	<tr>
 		<td>673</td>
