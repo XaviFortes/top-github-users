@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2025/6/29 6:22 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2025/6/29 9:18 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -200,8 +200,8 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>1755</td>
-		<td>7311</td>
+		<td>1754</td>
+		<td>7314</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>@django, @djangolondon </td>
 		<td>No Twitter Username</td>
 		<td>London / Lisbon</td>
-		<td>3734</td>
-		<td>6720</td>
+		<td>3735</td>
+		<td>6721</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -341,7 +341,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Canada / Portugal</td>
 		<td>222</td>
-		<td>5054</td>
+		<td>5058</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -802,8 +802,8 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>Nelson128@sapo.pt </td>
 		<td>No Twitter Username</td>
 		<td>lisbon portugal</td>
-		<td>2661</td>
-		<td>2661</td>
+		<td>2667</td>
+		<td>2667</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -2174,8 +2174,8 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>410</td>
-		<td>1445</td>
+		<td>411</td>
+		<td>1446</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -2580,8 +2580,8 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>42 Lisboa </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>1182</td>
-		<td>1218</td>
+		<td>1183</td>
+		<td>1219</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -3309,7 +3309,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td><a href="https://twitter.com/onufrienkos">onufrienkos</a></td>
 		<td>Portugal</td>
 		<td>17</td>
-		<td>928</td>
+		<td>930</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3734,6 +3734,20 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 	<tr>
 		<td>260</td>
 		<td>
+			<a href="https://github.com/Saicheg">
+				<img src="https://avatars.githubusercontent.com/u/624999?s=72&u=a16c1c78fa07ab2f9968d30a127d2699b483b3ac&v=4" width="24" alt="Avatar of Saicheg"> Saicheg
+			</a><br/>
+			Valiantsin Zavadski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lisbon, Portugal</td>
+		<td>62</td>
+		<td>816</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
 			<a href="https://github.com/ruilopesm">
 				<img src="https://avatars.githubusercontent.com/u/76881129?s=72&u=5a621303b9ddaeffef1c21269870abe14831a748&v=4" width="24" alt="Avatar of ruilopesm"> ruilopesm
 			</a><br/>
@@ -3744,20 +3758,6 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>Braga, Portugal</td>
 		<td>343</td>
 		<td>815</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/Saicheg">
-				<img src="https://avatars.githubusercontent.com/u/624999?s=72&u=a16c1c78fa07ab2f9968d30a127d2699b483b3ac&v=4" width="24" alt="Avatar of Saicheg"> Saicheg
-			</a><br/>
-			Valiantsin Zavadski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lisbon, Portugal</td>
-		<td>62</td>
-		<td>814</td>
 	</tr>
 	<tr>
 		<td>262</td>
@@ -10552,6 +10552,20 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 	<tr>
 		<td>747</td>
 		<td>
+			<a href="https://github.com/MaNegrao">
+				<img src="https://avatars.githubusercontent.com/u/31110971?s=72&u=8fc16ef43c49f9644fa2b84b0a634648735a633c&v=4" width="24" alt="Avatar of MaNegrao"> MaNegrao
+			</a><br/>
+			Matheus Negrão
+		</td>
+		<td>Vislab-ufrgs </td>
+		<td><a href="https://twitter.com/n_egrao">n_egrao</a></td>
+		<td>Porto Alegre</td>
+		<td>12</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>748</td>
+		<td>
 			<a href="https://github.com/Modi1987">
 				<img src="https://avatars.githubusercontent.com/u/23720527?s=72&u=124fdf7ecb1ac24215a40e106251273e07706a73&v=4" width="24" alt="Avatar of Modi1987"> Modi1987
 			</a><br/>
@@ -10564,7 +10578,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/moacirrf">
 				<img src="https://avatars.githubusercontent.com/u/950706?s=72&u=2b06c798ec5d54d2ec3753174b416f0a03a69180&v=4" width="24" alt="Avatar of moacirrf"> moacirrf
@@ -10578,7 +10592,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/alexispomares">
 				<img src="https://avatars.githubusercontent.com/u/33484979?s=72&u=8a7c47e640a02da3d2b8d4eaf485cda3e874bd5d&v=4" width="24" alt="Avatar of alexispomares"> alexispomares
@@ -10592,7 +10606,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/Emerson-02">
 				<img src="https://avatars.githubusercontent.com/u/69188698?s=72&u=7f74aae7a32995ff8f07a53e673b57725ee665f8&v=4" width="24" alt="Avatar of Emerson-02"> Emerson-02
@@ -10603,20 +10617,6 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, RS, Brazil</td>
 		<td>22</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>751</td>
-		<td>
-			<a href="https://github.com/MaNegrao">
-				<img src="https://avatars.githubusercontent.com/u/31110971?s=72&u=8fc16ef43c49f9644fa2b84b0a634648735a633c&v=4" width="24" alt="Avatar of MaNegrao"> MaNegrao
-			</a><br/>
-			Matheus Negrão
-		</td>
-		<td>Vislab-ufrgs </td>
-		<td><a href="https://twitter.com/n_egrao">n_egrao</a></td>
-		<td>Porto Alegre</td>
-		<td>12</td>
 		<td>22</td>
 	</tr>
 	<tr>

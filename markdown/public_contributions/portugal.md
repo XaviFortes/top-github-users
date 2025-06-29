@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` by users in Portugal on `2025/6/29 6:22 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` by users in Portugal on `2025/6/29 9:18 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -180,7 +180,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>@django, @djangolondon </td>
 		<td>No Twitter Username</td>
 		<td>London / Lisbon</td>
-		<td>3734</td>
+		<td>3735</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -258,7 +258,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>Nelson128@sapo.pt </td>
 		<td>No Twitter Username</td>
 		<td>lisbon portugal</td>
-		<td>2661</td>
+		<td>2667</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -414,7 +414,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>1755</td>
+		<td>1754</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -752,7 +752,7 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>42 Lisboa </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>1182</td>
+		<td>1183</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -2070,19 +2070,6 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 	<tr>
 		<td>152</td>
 		<td>
-			<a href="https://github.com/dreispt">
-				<img src="https://avatars.githubusercontent.com/u/1246629?s=72&u=c555238737b7c778fc8db890744d34a45b442ba3&v=4" width="24" alt="Avatar of dreispt"> dreispt
-			</a><br/>
-			Daniel Reis
-		</td>
-		<td>Open Source Integrators </td>
-		<td><a href="https://twitter.com/reis_pt">reis_pt</a></td>
-		<td>Lisbon</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
 			<a href="https://github.com/tomahock">
 				<img src="https://avatars.githubusercontent.com/u/794581?s=72&v=4" width="24" alt="Avatar of tomahock"> tomahock
 			</a><br/>
@@ -2091,6 +2078,19 @@ There are `966 users`  in Portugal. You need at least `74 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/dreispt">
+				<img src="https://avatars.githubusercontent.com/u/1246629?s=72&u=c555238737b7c778fc8db890744d34a45b442ba3&v=4" width="24" alt="Avatar of dreispt"> dreispt
+			</a><br/>
+			Daniel Reis
+		</td>
+		<td>Open Source Integrators </td>
+		<td><a href="https://twitter.com/reis_pt">reis_pt</a></td>
+		<td>Lisbon</td>
 		<td>410</td>
 	</tr>
 	<tr>
