@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/7/1 10:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/7/2 2:46 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -822,19 +822,6 @@ There are `402 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/francrodriguez">
-				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
-			</a><br/>
-			Franc Rodriguez
-		</td>
-		<td>@tecob  </td>
-		<td><a href="https://twitter.com/franc">franc</a></td>
-		<td>Andorra la Vella, Andorra, Europe</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
 			<a href="https://github.com/lluisfranco">
 				<img src="https://avatars.githubusercontent.com/u/6582934?s=72&u=67d0b209b7cba45376babb36de38228a28ec5834&v=4" width="24" alt="Avatar of lluisfranco"> lluisfranco
 			</a><br/>
@@ -843,6 +830,19 @@ There are `402 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@falconft  </td>
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/francrodriguez">
+				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
+			</a><br/>
+			Franc Rodriguez
+		</td>
+		<td>@tecob  </td>
+		<td><a href="https://twitter.com/franc">franc</a></td>
+		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>13</td>
 	</tr>
 	<tr>
