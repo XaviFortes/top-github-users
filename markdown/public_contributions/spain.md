@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` by users in Spain on `2025/7/5 4:25 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` by users in Spain on `2025/7/5 7:19 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>@posit-pbc </td>
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
-		<td>11209</td>
+		<td>11212</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>Ska,  Iaa-csic, University<br/>Of<br/>Granada<br/></td>
 		<td><a href="https://twitter.com/manugrapevine">manugrapevine</a></td>
 		<td>Granada, Spain</td>
-		<td>9219</td>
+		<td>9222</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -258,7 +258,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>Mouredev By Brais Moure<br/></td>
 		<td>No Twitter Username</td>
 		<td>Building software with  ♥ from Galicia (Spain) to the world.</td>
-		<td>3408</td>
+		<td>3410</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -388,7 +388,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/MarcNuri">MarcNuri</a></td>
 		<td>Valencia, Spain</td>
-		<td>2931</td>
+		<td>2941</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -596,7 +596,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/solodevops">solodevops</a></td>
 		<td>Valladolid, Spain</td>
-		<td>1975</td>
+		<td>1986</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1246,7 +1246,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Aarf4548">Aarf4548</a></td>
 		<td>Spain</td>
-		<td>1160</td>
+		<td>1161</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1363,7 +1363,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/topapate">topapate</a></td>
 		<td>Valencia, Spain</td>
-		<td>1063</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -2819,7 +2819,7 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>Senior Web Engineer @n26<br/></td>
 		<td><a href="https://twitter.com/raul_fdm">raul_fdm</a></td>
 		<td>Spain</td>
-		<td>481</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -4384,6 +4384,19 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 	<tr>
 		<td>330</td>
 		<td>
+			<a href="https://github.com/fxn">
+				<img src="https://avatars.githubusercontent.com/u/3387?s=72&u=6e096a959f1b40c58d47018f062e4a868a2801f2&v=4" width="24" alt="Avatar of fxn"> fxn
+			</a><br/>
+			Xavier Noria
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Barcelona</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
 			<a href="https://github.com/Lumorti">
 				<img src="https://avatars.githubusercontent.com/u/34149206?s=72&u=542c1c8de4d07af8f73437d5c83a69d780735cd3&v=4" width="24" alt="Avatar of Lumorti"> Lumorti
 			</a><br/>
@@ -4393,19 +4406,6 @@ There are `949 users`  in Spain. You need at least `123 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
 		<td>228</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/fxn">
-				<img src="https://avatars.githubusercontent.com/u/3387?s=72&u=6e096a959f1b40c58d47018f062e4a868a2801f2&v=4" width="24" alt="Avatar of fxn"> fxn
-			</a><br/>
-			Xavier Noria
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Barcelona</td>
-		<td>227</td>
 	</tr>
 	<tr>
 		<td>332</td>
