@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/7/8 5:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/7/8 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `403 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>920</td>
+		<td>921</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -536,6 +536,19 @@ There are `403 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>34</td>
 		<td>
+			<a href="https://github.com/markusand">
+				<img src="https://avatars.githubusercontent.com/u/12972543?s=72&u=aed4176e740476a7fe548a6e3f481bf17fadd16d&v=4" width="24" alt="Avatar of markusand"> markusand
+			</a><br/>
+			Marc Vilella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/bielcarpi">
 				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
 			</a><br/>
@@ -547,7 +560,7 @@ There are `403 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/ColColty">
 				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
@@ -555,19 +568,6 @@ There are `403 users`  in Andorra. You need at least `0 followers` to be on this
 			Tomàs Forné Cappeau
 		</td>
 		<td>@surge-ai  </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/markusand">
-				<img src="https://avatars.githubusercontent.com/u/12972543?s=72&u=aed4176e740476a7fe548a6e3f481bf17fadd16d&v=4" width="24" alt="Avatar of markusand"> markusand
-			</a><br/>
-			Marc Vilella
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>23</td>
