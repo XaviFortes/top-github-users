@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/7/12 3:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/7/12 6:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -691,7 +691,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramenet</td>
 		<td>1</td>
-		<td>375</td>
+		<td>376</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -2166,6 +2166,20 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/andrca">
+				<img src="https://avatars.githubusercontent.com/u/9819441?s=72&u=d6c2c8def3a3b761c246242e7cd183d8613c5e0d&v=4" width="24" alt="Avatar of andrca"> andrca
+			</a><br/>
+			André Caçador
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/andrehunter_">andrehunter_</a></td>
+		<td>Andorra </td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/neuronix">
 				<img src="https://avatars.githubusercontent.com/u/219800?s=72&u=990c40c0de97476e2da9afdc1cfef77f4e75dd40&v=4" width="24" alt="Avatar of neuronix"> neuronix
 			</a><br/>
@@ -2178,7 +2192,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/SPRDesign">
 				<img src="https://avatars.githubusercontent.com/u/144797101?s=72&u=088774dce9404afe4656a9b0a5ea9f3601871932&v=4" width="24" alt="Avatar of SPRDesign"> SPRDesign
@@ -2192,7 +2206,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/Andormix">
 				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
@@ -2206,7 +2220,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/SverreRojgard">
 				<img src="https://avatars.githubusercontent.com/u/183022511?s=72&u=0c7aaf22670720efe52b3aa27915b6223a6f85fd&v=4" width="24" alt="Avatar of SverreRojgard"> SverreRojgard
@@ -2220,7 +2234,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/peg500and">
 				<img src="https://avatars.githubusercontent.com/u/44753255?s=72&u=0cc153b1278000d2a30b5f8a1fb85f37812915dc&v=4" width="24" alt="Avatar of peg500and"> peg500and
@@ -2234,7 +2248,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/BeNexeAndorra">
 				<img src="https://avatars.githubusercontent.com/u/152173806?s=72&v=4" width="24" alt="Avatar of BeNexeAndorra"> BeNexeAndorra
@@ -2248,7 +2262,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/1wise">
 				<img src="https://avatars.githubusercontent.com/u/13821744?s=72&u=ad715f828dc0953434a395c40d3f0cc30eb46ab9&v=4" width="24" alt="Avatar of 1wise"> 1wise
@@ -2258,20 +2272,6 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1wise.es </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/andrca">
-				<img src="https://avatars.githubusercontent.com/u/9819441?s=72&u=d6c2c8def3a3b761c246242e7cd183d8613c5e0d&v=4" width="24" alt="Avatar of andrca"> andrca
-			</a><br/>
-			André Caçador
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/andrehunter_">andrehunter_</a></td>
-		<td>Andorra </td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
