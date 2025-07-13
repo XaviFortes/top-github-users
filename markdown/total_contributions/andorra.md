@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/7/13 4:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/7/13 7:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -411,7 +411,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>18</td>
-		<td>784</td>
+		<td>787</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -439,7 +439,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>35</td>
-		<td>730</td>
+		<td>731</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -817,7 +817,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra La Vella, Andorra</td>
 		<td>2</td>
-		<td>252</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -1186,20 +1186,6 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/carpuplay">
-				<img src="https://avatars.githubusercontent.com/u/105707690?s=72&u=32bf5b21d181bbc3a901ad992dab8800ec985a72&v=4" width="24" alt="Avatar of carpuplay"> carpuplay
-			</a><br/>
-			Alexandru Carp
-		</td>
-		<td>Dumbytech </td>
-		<td><a href="https://twitter.com/carputw">carputw</a></td>
-		<td>Andorra</td>
-		<td>69</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
 			<a href="https://github.com/NachiBasaldella">
 				<img src="https://avatars.githubusercontent.com/u/97797687?s=72&u=dbfef4ab58d0820dfebd54d993e4e49ff8e4ff04&v=4" width="24" alt="Avatar of NachiBasaldella"> NachiBasaldella
 			</a><br/>
@@ -1207,6 +1193,20 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Universität D' Carlemany <br/></td>
 		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>75</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/carpuplay">
+				<img src="https://avatars.githubusercontent.com/u/105707690?s=72&u=32bf5b21d181bbc3a901ad992dab8800ec985a72&v=4" width="24" alt="Avatar of carpuplay"> carpuplay
+			</a><br/>
+			Alexandru Carp
+		</td>
+		<td>Dumbytech </td>
+		<td><a href="https://twitter.com/carputw">carputw</a></td>
 		<td>Andorra</td>
 		<td>69</td>
 		<td>69</td>
