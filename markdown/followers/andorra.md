@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/7/14 5:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/7/14 8:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -757,19 +757,6 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/gneotux">
-				<img src="https://avatars.githubusercontent.com/u/1918857?s=72&u=8f4cbfb65728e934b92868df3e2df1beabc9ffd6&v=4" width="24" alt="Avatar of gneotux"> gneotux
-			</a><br/>
-			Giancarlo Muñoz Reinoso
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
 			<a href="https://github.com/1wise">
 				<img src="https://avatars.githubusercontent.com/u/13821744?s=72&u=ad715f828dc0953434a395c40d3f0cc30eb46ab9&v=4" width="24" alt="Avatar of 1wise"> 1wise
 			</a><br/>
@@ -781,7 +768,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/ghawthorne66">
 				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
@@ -794,7 +781,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/ccebrecos">
 				<img src="https://avatars.githubusercontent.com/u/19707527?s=72&u=ae1965947a72f3ff06d41d1b068ead19fdeaa66c&v=4" width="24" alt="Avatar of ccebrecos"> ccebrecos
@@ -804,6 +791,19 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra / Barcelona</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/gneotux">
+				<img src="https://avatars.githubusercontent.com/u/1918857?s=72&u=8f4cbfb65728e934b92868df3e2df1beabc9ffd6&v=4" width="24" alt="Avatar of gneotux"> gneotux
+			</a><br/>
+			Giancarlo Muñoz Reinoso
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -1173,6 +1173,19 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>83</td>
 		<td>
+			<a href="https://github.com/dj-navarro">
+				<img src="https://avatars.githubusercontent.com/u/56789665?s=72&u=245c23a45c6ddc35ace6c4e2d879dfecb20fe3ce&v=4" width="24" alt="Avatar of dj-navarro"> dj-navarro
+			</a><br/>
+			J__Navarro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
 			<a href="https://github.com/jrlambea">
 				<img src="https://avatars.githubusercontent.com/u/6108794?s=72&u=1c80895552b228cde30a3b2040565f0c1c422969&v=4" width="24" alt="Avatar of jrlambea"> jrlambea
 			</a><br/>
@@ -1184,7 +1197,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/apascualagut">
 				<img src="https://avatars.githubusercontent.com/u/34001956?s=72&u=126b77d79d3e158231bfe74a7636cf903c0032e4&v=4" width="24" alt="Avatar of apascualagut"> apascualagut
@@ -1197,7 +1210,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
@@ -1210,7 +1223,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/nestorgt">
 				<img src="https://avatars.githubusercontent.com/u/4219449?s=72&u=42d18517791daa0964750965d3b2f00fa233373d&v=4" width="24" alt="Avatar of nestorgt"> nestorgt
@@ -1223,7 +1236,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/PaulMatencio">
 				<img src="https://avatars.githubusercontent.com/u/5259065?s=72&v=4" width="24" alt="Avatar of PaulMatencio"> PaulMatencio
@@ -1236,7 +1249,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/ailtonluiz">
 				<img src="https://avatars.githubusercontent.com/u/12979391?s=72&u=80e66110dafc7102b58004b5b9ecb333585f9106&v=4" width="24" alt="Avatar of ailtonluiz"> ailtonluiz
@@ -1249,7 +1262,7 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/agustinramos">
 				<img src="https://avatars.githubusercontent.com/u/22509950?s=72&u=34d832cc33649c629230ee2ab2fc8b23d0624329&v=4" width="24" alt="Avatar of agustinramos"> agustinramos
@@ -1257,19 +1270,6 @@ There are `404 users`  in Andorra. You need at least `0 followers` to be on this
 			Agustin Ramos Peruzzo
 		</td>
 		<td>Hotelgest </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/dj-navarro">
-				<img src="https://avatars.githubusercontent.com/u/56789665?s=72&u=245c23a45c6ddc35ace6c4e2d879dfecb20fe3ce&v=4" width="24" alt="Avatar of dj-navarro"> dj-navarro
-			</a><br/>
-			J__Navarro
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>6</td>
