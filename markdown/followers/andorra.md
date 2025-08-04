@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/8/4 7:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/8/4 10:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -362,7 +362,7 @@ There are `406 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Https://alexcastano. </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>50</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -1914,19 +1914,6 @@ There are `406 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/LeoJohnChassot">
-				<img src="https://avatars.githubusercontent.com/u/162489506?s=72&v=4" width="24" alt="Avatar of LeoJohnChassot"> LeoJohnChassot
-			</a><br/>
-			Leo John Chassot
-		</td>
-		<td>M. Muebles </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
 			<a href="https://github.com/koredecodes">
 				<img src="https://avatars.githubusercontent.com/u/118663191?s=72&u=9ed3cc4e1be47ee532b1ab84da66bf29585e1340&v=4" width="24" alt="Avatar of koredecodes"> koredecodes
 			</a><br/>
@@ -1935,6 +1922,19 @@ There are `406 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CodesKorede">CodesKorede</a></td>
 		<td>Andorra la Vella, Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/LeoJohnChassot">
+				<img src="https://avatars.githubusercontent.com/u/162489506?s=72&v=4" width="24" alt="Avatar of LeoJohnChassot"> LeoJohnChassot
+			</a><br/>
+			Leo John Chassot
+		</td>
+		<td>M. Muebles </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
