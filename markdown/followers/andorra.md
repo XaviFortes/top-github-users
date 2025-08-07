@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/8/6 11:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/8/7 4:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Block 6.282e+10 </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>490</td>
+		<td>489</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -206,7 +206,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Https://tanukilabs.x </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>103</td>
+		<td>102</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -562,19 +562,6 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/bielcarpi">
-				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
-			</a><br/>
-			Biel Carpi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/ColColty">
 				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
 			</a><br/>
@@ -586,7 +573,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/GPradaT">
 				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
@@ -599,7 +586,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/MichelKansou">
 				<img src="https://avatars.githubusercontent.com/u/15091838?s=72&u=b2832d5806c9161c43d646d87da7a46443eba141&v=4" width="24" alt="Avatar of MichelKansou"> MichelKansou
@@ -612,7 +599,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/sergiorodenas">
 				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=8b1ecae9b4c7386d7c9b571f1929fcddf9b75996&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
@@ -625,7 +612,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/blackaichi">
 				<img src="https://avatars.githubusercontent.com/u/29255819?s=72&u=2f11de0e1495bc4e56cae549ff9f41ca3357c576&v=4" width="24" alt="Avatar of blackaichi"> blackaichi
@@ -638,7 +625,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/pablongo">
 				<img src="https://avatars.githubusercontent.com/u/16439523?s=72&v=4" width="24" alt="Avatar of pablongo"> pablongo
@@ -649,6 +636,19 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/bielcarpi">
+				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
+			</a><br/>
+			Biel Carpi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>43</td>
