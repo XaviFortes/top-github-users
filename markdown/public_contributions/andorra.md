@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/8/9 1:26 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/8/9 4:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -666,6 +666,19 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/AdrianMastronardi">
+				<img src="https://avatars.githubusercontent.com/u/7809331?s=72&u=4ae4966f1b30a2ce6c19a511d74510afe18c765a&v=4" width="24" alt="Avatar of AdrianMastronardi"> AdrianMastronardi
+			</a><br/>
+			Adrian Mastronardi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
+		<td>Andorra</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
 			<a href="https://github.com/ph3t">
 				<img src="https://avatars.githubusercontent.com/u/18530936?s=72&v=4" width="24" alt="Avatar of ph3t"> ph3t
 			</a><br/>
@@ -677,7 +690,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/real-felix">
 				<img src="https://avatars.githubusercontent.com/u/18555389?s=72&u=745d1118af9971e7256940f2a28723bbb548cd72&v=4" width="24" alt="Avatar of real-felix"> real-felix
@@ -690,7 +703,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/seniorihor">
 				<img src="https://avatars.githubusercontent.com/u/836117?s=72&v=4" width="24" alt="Avatar of seniorihor"> seniorihor
@@ -703,7 +716,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/alexenc">
 				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
@@ -716,7 +729,7 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/DiMiTriFrog">
 				<img src="https://avatars.githubusercontent.com/u/38754548?s=72&u=16e081a04e02802f528110a8582ab442a172e373&v=4" width="24" alt="Avatar of DiMiTriFrog"> DiMiTriFrog
@@ -725,19 +738,6 @@ There are `408 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Strattonapps </td>
 		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/AdrianMastronardi">
-				<img src="https://avatars.githubusercontent.com/u/7809331?s=72&u=4ae4966f1b30a2ce6c19a511d74510afe18c765a&v=4" width="24" alt="Avatar of AdrianMastronardi"> AdrianMastronardi
-			</a><br/>
-			Adrian Mastronardi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>35</td>
 	</tr>
