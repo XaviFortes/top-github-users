@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/8/12 9:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/8/13 12:54 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -336,7 +336,7 @@ There are `410 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Sant Julia De Loria<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>128</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -796,6 +796,32 @@ There are `410 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>54</td>
 		<td>
+			<a href="https://github.com/MiguelAngelSaizAngullo">
+				<img src="https://avatars.githubusercontent.com/u/103000395?s=72&u=4d93bc1fcff455254f26deabfc4a16b01289ea5c&v=4" width="24" alt="Avatar of MiguelAngelSaizAngullo"> MiguelAngelSaizAngullo
+			</a><br/>
+			Miguel Angel Saiz Angullo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/carloshield">
+				<img src="https://avatars.githubusercontent.com/u/168571757?s=72&u=9cb4c184b5da80cb3d46525be4eb46f981812f47&v=4" width="24" alt="Avatar of carloshield"> carloshield
+			</a><br/>
+			Carlos López
+		</td>
+		<td>Nash & Arrow </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/40504">
 				<img src="https://avatars.githubusercontent.com/u/71176569?s=72&u=39e385ad4b0cf3bd45a17069ba0f20b596aaa7a2&v=4" width="24" alt="Avatar of 40504"> 40504
 			</a><br/>
@@ -807,7 +833,7 @@ There are `410 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/kuentin22">
 				<img src="https://avatars.githubusercontent.com/u/99285177?s=72&u=c4ed7985c8ae63cabe820e1e407127405e7aa232&v=4" width="24" alt="Avatar of kuentin22"> kuentin22
@@ -818,32 +844,6 @@ There are `410 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>30</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/carloshield">
-				<img src="https://avatars.githubusercontent.com/u/168571757?s=72&u=9cb4c184b5da80cb3d46525be4eb46f981812f47&v=4" width="24" alt="Avatar of carloshield"> carloshield
-			</a><br/>
-			Carlos López
-		</td>
-		<td>Nash & Arrow </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/MiguelAngelSaizAngullo">
-				<img src="https://avatars.githubusercontent.com/u/103000395?s=72&u=4d93bc1fcff455254f26deabfc4a16b01289ea5c&v=4" width="24" alt="Avatar of MiguelAngelSaizAngullo"> MiguelAngelSaizAngullo
-			</a><br/>
-			Miguel Angel Saiz Angullo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>29</td>
 	</tr>
 	<tr>
 		<td>58</td>
