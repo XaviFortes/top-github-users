@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/8/21 1:26 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/8/21 4:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -141,7 +141,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Block 6.282e+10 </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>564</td>
+		<td>566</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1030,19 +1030,6 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/MGAlvarez1989">
-				<img src="https://avatars.githubusercontent.com/u/130353871?s=72&u=10561c6003baa6d96b09422f1db47d4b0cba6be1&v=4" width="24" alt="Avatar of MGAlvarez1989"> MGAlvarez1989
-			</a><br/>
-			Matias Gonzalo Alvarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Queralt, Tarragona, Spain</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
 			<a href="https://github.com/KaratelSH">
 				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
 			</a><br/>
@@ -1054,7 +1041,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/Jbird206">
 				<img src="https://avatars.githubusercontent.com/u/9637712?s=72&u=7b45c85b7fc220ada63b57e8c764cbd1ecd5ff33&v=4" width="24" alt="Avatar of Jbird206"> Jbird206
@@ -1067,7 +1054,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/dj-navarro">
 				<img src="https://avatars.githubusercontent.com/u/56789665?s=72&u=245c23a45c6ddc35ace6c4e2d879dfecb20fe3ce&v=4" width="24" alt="Avatar of dj-navarro"> dj-navarro
@@ -1080,7 +1067,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/YaizaCano">
 				<img src="https://avatars.githubusercontent.com/u/47102654?s=72&u=344c16bcabfce2965b0ba79fa6455ad17b988dbf&v=4" width="24" alt="Avatar of YaizaCano"> YaizaCano
@@ -1093,7 +1080,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/DDelgadoD">
 				<img src="https://avatars.githubusercontent.com/u/44667908?s=72&u=11f06606bde263f6800bc77b0c7be41d99f4e25f&v=4" width="24" alt="Avatar of DDelgadoD"> DDelgadoD
@@ -1106,7 +1093,7 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/orimarti">
 				<img src="https://avatars.githubusercontent.com/u/5805792?s=72&u=af9b1de535c2f271b9f4d281b0470c28fedba5eb&v=4" width="24" alt="Avatar of orimarti"> orimarti
@@ -1116,6 +1103,19 @@ There are `413 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/MGAlvarez1989">
+				<img src="https://avatars.githubusercontent.com/u/130353871?s=72&u=10561c6003baa6d96b09422f1db47d4b0cba6be1&v=4" width="24" alt="Avatar of MGAlvarez1989"> MGAlvarez1989
+			</a><br/>
+			Matias Gonzalo Alvarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Queralt, Tarragona, Spain</td>
 		<td>8</td>
 	</tr>
 	<tr>
