@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` by users in Portugal on `2025/8/26 12:57 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` by users in Portugal on `2025/8/26 4:22 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>Valantic Lcs </td>
 		<td><a href="https://twitter.com/correiajpv">correiajpv</a></td>
 		<td>Porto, Portugal</td>
-		<td>34712</td>
+		<td>34782</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -518,7 +518,7 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>Eclo Solutions </td>
 		<td><a href="https://twitter.com/Jose_Simoes">Jose_Simoes</a></td>
 		<td>Leiria, Portugal</td>
-		<td>1404</td>
+		<td>1405</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1857,7 +1857,7 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>1º Cgeo </td>
 		<td><a href="https://twitter.com/BorbaPhilipe">BorbaPhilipe</a></td>
 		<td>Porto Alegre, Brasil</td>
-		<td>494</td>
+		<td>495</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -1896,7 +1896,7 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
-		<td>485</td>
+		<td>487</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2975,7 +2975,7 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>@blissapps  </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>252</td>
+		<td>253</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -3838,6 +3838,19 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 	<tr>
 		<td>288</td>
 		<td>
+			<a href="https://github.com/alcueca">
+				<img src="https://avatars.githubusercontent.com/u/38806121?s=72&u=05446d587fca577d19ea91499b0ae9ce4d66c3ae&v=4" width="24" alt="Avatar of alcueca"> alcueca
+			</a><br/>
+			Alberto Cuesta Cañada
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alcueca">alcueca</a></td>
+		<td>Lisbon, Portugal</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
 			<a href="https://github.com/harlley">
 				<img src="https://avatars.githubusercontent.com/u/52423?s=72&u=f29d06e2be5268f2d70e01aa28d617655e604847&v=4" width="24" alt="Avatar of harlley"> harlley
 			</a><br/>
@@ -3847,19 +3860,6 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td><a href="https://twitter.com/harlleydev">harlleydev</a></td>
 		<td>Braga, Portugal</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/alcueca">
-				<img src="https://avatars.githubusercontent.com/u/38806121?s=72&u=05446d587fca577d19ea91499b0ae9ce4d66c3ae&v=4" width="24" alt="Avatar of alcueca"> alcueca
-			</a><br/>
-			Alberto Cuesta Cañada
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alcueca">alcueca</a></td>
-		<td>Lisbon, Portugal</td>
-		<td>156</td>
 	</tr>
 	<tr>
 		<td>290</td>
@@ -5164,6 +5164,19 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 	<tr>
 		<td>390</td>
 		<td>
+			<a href="https://github.com/assparremberger">
+				<img src="https://avatars.githubusercontent.com/u/40809168?s=72&u=f41cf0449dc2628dac8f277fc8de3d7a53b73973&v=4" width="24" alt="Avatar of assparremberger"> assparremberger
+			</a><br/>
+			Prof. MSc. Adalto Selau Sparremberger (SENACRS)
+		</td>
+		<td>Senacrs </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre / RS</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
 			<a href="https://github.com/juliamendesc">
 				<img src="https://avatars.githubusercontent.com/u/57814821?s=72&u=b5e7e0b93c5da25238db04cc062f6dc320837ac2&v=4" width="24" alt="Avatar of juliamendesc"> juliamendesc
 			</a><br/>
@@ -5173,19 +5186,6 @@ There are `965 users`  in Portugal. You need at least `75 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
 		<td>81</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/assparremberger">
-				<img src="https://avatars.githubusercontent.com/u/40809168?s=72&u=f41cf0449dc2628dac8f277fc8de3d7a53b73973&v=4" width="24" alt="Avatar of assparremberger"> assparremberger
-			</a><br/>
-			Prof. MSc. Adalto Selau Sparremberger (SENACRS)
-		</td>
-		<td>Senacrs </td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre / RS</td>
-		<td>80</td>
 	</tr>
 	<tr>
 		<td>392</td>
