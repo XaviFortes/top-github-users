@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/8/27 10:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/8/27 1:24 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -1267,7 +1267,7 @@ There are `417 users`  in Andorra. You need at least `0 followers` to be on this
 			<a href="https://github.com/maricarmenmartingomez">
 				<img src="https://avatars.githubusercontent.com/u/50134825?s=72&u=365228cbd4646b38bf90d7e7cb216e8f17bdd6b8&v=4" width="24" alt="Avatar of maricarmenmartingomez"> maricarmenmartingomez
 			</a><br/>
-			Maria Del Carmen Martín de Almagro
+			María Del Carmen Martín de Almagro
 		</td>
 		<td>@growthland  </td>
 		<td>No Twitter Username</td>
