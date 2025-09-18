@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/9/18 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/9/18 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -173,7 +173,7 @@ There are `420 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra</td>
 		<td>1888</td>
-		<td>2243</td>
+		<td>2245</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -215,7 +215,7 @@ There are `420 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>1962</td>
+		<td>1963</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -956,8 +956,8 @@ There are `420 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Mountain Path Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
-		<td>76</td>
-		<td>172</td>
+		<td>77</td>
+		<td>173</td>
 	</tr>
 	<tr>
 		<td>62</td>
