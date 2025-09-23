@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/9/23 2:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/9/23 5:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -913,6 +913,19 @@ There are `421 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>63</td>
 		<td>
+			<a href="https://github.com/fjhidalgo-coding">
+				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
+			</a><br/>
+			Francisco Javier Hidalgo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
 			<a href="https://github.com/IvanBisultanov">
 				<img src="https://avatars.githubusercontent.com/u/11385603?s=72&u=7e785cb820a3980051c982b5c561847a3b3f3ba5&v=4" width="24" alt="Avatar of IvanBisultanov"> IvanBisultanov
 			</a><br/>
@@ -924,7 +937,7 @@ There are `421 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/mcarmenmg">
 				<img src="https://avatars.githubusercontent.com/u/82008?s=72&u=b006e3df7a99b4b0ef395f5fcd81eded95bf5fed&v=4" width="24" alt="Avatar of mcarmenmg"> mcarmenmg
@@ -937,7 +950,7 @@ There are `421 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/cmarfil">
 				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
@@ -950,7 +963,7 @@ There are `421 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/seniorihor">
 				<img src="https://avatars.githubusercontent.com/u/836117?s=72&v=4" width="24" alt="Avatar of seniorihor"> seniorihor
@@ -960,19 +973,6 @@ There are `421 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/fjhidalgo-coding">
-				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
-			</a><br/>
-			Francisco Javier Hidalgo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
-		<td>Santa Coloma de Gramenet</td>
 		<td>11</td>
 	</tr>
 	<tr>
