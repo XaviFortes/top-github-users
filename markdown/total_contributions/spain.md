@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` and `private contributions` by users in Spain on `2025/9/26 2:27 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` and `private contributions` by users in Spain on `2025/9/26 5:23 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -131,7 +131,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Huelva, Spain</td>
 		<td>17</td>
-		<td>19024</td>
+		<td>19031</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -186,8 +186,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>Ska,  Iaa-csic, University<br/>Of<br/>Granada<br/></td>
 		<td><a href="https://twitter.com/manugrapevine">manugrapevine</a></td>
 		<td>Granada, Spain</td>
-		<td>9175</td>
-		<td>9175</td>
+		<td>9178</td>
+		<td>9178</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -355,7 +355,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Madrid</td>
 		<td>853</td>
-		<td>4880</td>
+		<td>4881</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -382,8 +382,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/MarcNuri">MarcNuri</a></td>
 		<td>Valencia, Spain</td>
-		<td>3228</td>
-		<td>4759</td>
+		<td>3231</td>
+		<td>4764</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -425,7 +425,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Spain</td>
 		<td>32</td>
-		<td>4465</td>
+		<td>4475</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -481,7 +481,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
 		<td>36</td>
-		<td>4134</td>
+		<td>4137</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -508,8 +508,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/josembarroso">josembarroso</a></td>
 		<td>Cádiz, Spain</td>
-		<td>4069</td>
-		<td>4091</td>
+		<td>4073</td>
+		<td>4095</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -564,8 +564,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>@microsoft  </td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>3351</td>
-		<td>3860</td>
+		<td>3353</td>
+		<td>3862</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -900,8 +900,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>Pragmatic Ai Labs </td>
 		<td>No Twitter Username</td>
 		<td>Spain</td>
-		<td>2308</td>
-		<td>2991</td>
+		<td>2310</td>
+		<td>2993</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -957,7 +957,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Spain</td>
 		<td>635</td>
-		<td>2907</td>
+		<td>2912</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1194,8 +1194,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>@edpuzzle  </td>
 		<td><a href="https://twitter.com/alberthdev">alberthdev</a></td>
 		<td>Valencia, Spain</td>
-		<td>644</td>
-		<td>2407</td>
+		<td>645</td>
+		<td>2408</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1741,7 +1741,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Spain</td>
 		<td>0</td>
-		<td>1899</td>
+		<td>1900</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -3323,7 +3323,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona, Spain</td>
 		<td>2</td>
-		<td>1108</td>
+		<td>1109</td>
 	</tr>
 	<tr>
 		<td>231</td>
@@ -3350,8 +3350,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>@automattic  </td>
 		<td><a href="https://twitter.com/riadbenguella">riadbenguella</a></td>
 		<td>Alicante Spain, Oran Algérie</td>
-		<td>985</td>
-		<td>1102</td>
+		<td>986</td>
+		<td>1103</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -4168,6 +4168,20 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 	<tr>
 		<td>291</td>
 		<td>
+			<a href="https://github.com/dev-xo">
+				<img src="https://avatars.githubusercontent.com/u/82425492?s=72&u=dc126048fa78401d07bdd87b6c6028b5d2a92f44&v=4" width="24" alt="Avatar of dev-xo"> dev-xo
+			</a><br/>
+			Daniel Kanem
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/DanielKanem">DanielKanem</a></td>
+		<td>Madrid, Spain</td>
+		<td>80</td>
+		<td>916</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a href="https://github.com/asvetliakov">
 				<img src="https://avatars.githubusercontent.com/u/8881674?s=72&u=9e675c15715d0ffcbdbc279d181007eb7b75b327&v=4" width="24" alt="Avatar of asvetliakov"> asvetliakov
 			</a><br/>
@@ -4180,7 +4194,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>914</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/pablogs9">
 				<img src="https://avatars.githubusercontent.com/u/7647884?s=72&u=2d1502cf22dba02b0e4c99d3e5fc1dd02d150dd4&v=4" width="24" alt="Avatar of pablogs9"> pablogs9
@@ -4194,7 +4208,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>911</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/svg153">
 				<img src="https://avatars.githubusercontent.com/u/9192031?s=72&u=db156731d4434f521395c8c94ba3443da64d06e7&v=4" width="24" alt="Avatar of svg153"> svg153
@@ -4205,20 +4219,6 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td><a href="https://twitter.com/svg153">svg153</a></td>
 		<td>Madrid, Spain</td>
 		<td>156</td>
-		<td>911</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/dev-xo">
-				<img src="https://avatars.githubusercontent.com/u/82425492?s=72&u=dc126048fa78401d07bdd87b6c6028b5d2a92f44&v=4" width="24" alt="Avatar of dev-xo"> dev-xo
-			</a><br/>
-			Daniel Kanem
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/DanielKanem">DanielKanem</a></td>
-		<td>Madrid, Spain</td>
-		<td>80</td>
 		<td>911</td>
 	</tr>
 	<tr>
@@ -4568,8 +4568,8 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>818</td>
-		<td>818</td>
+		<td>819</td>
+		<td>819</td>
 	</tr>
 	<tr>
 		<td>320</td>
@@ -6249,7 +6249,7 @@ There are `946 users`  in Spain. You need at least `126 followers` to be on this
 		<td><a href="https://twitter.com/andre_mc">andre_mc</a></td>
 		<td>Madrid ES</td>
 		<td>93</td>
-		<td>460</td>
+		<td>461</td>
 	</tr>
 	<tr>
 		<td>440</td>
