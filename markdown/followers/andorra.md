@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/9/29 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/9/29 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -549,19 +549,6 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/ColColty">
-				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
-			</a><br/>
-			Tomàs Forné Cappeau
-		</td>
-		<td>@surge-ai  </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/kopenkinda">
 				<img src="https://avatars.githubusercontent.com/u/32075406?s=72&u=ec35dc9df14089b89000b0f35db1b08b1c7e6b4a&v=4" width="24" alt="Avatar of kopenkinda"> kopenkinda
 			</a><br/>
@@ -571,6 +558,19 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>23</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/ColColty">
+				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
+			</a><br/>
+			Tomàs Forné Cappeau
+		</td>
+		<td>@surge-ai  </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>37</td>

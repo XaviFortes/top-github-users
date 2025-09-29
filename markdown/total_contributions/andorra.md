@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/9/29 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/9/29 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -201,7 +201,7 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>2022</td>
+		<td>2029</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
 		<td>Andorra</td>
 		<td>158</td>
-		<td>2018</td>
+		<td>2019</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -284,8 +284,8 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>994</td>
-		<td>1409</td>
+		<td>996</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -733,7 +733,7 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>6</td>
-		<td>398</td>
+		<td>401</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1634,6 +1634,20 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>110</td>
 		<td>
+			<a href="https://github.com/EricLinSegarra">
+				<img src="https://avatars.githubusercontent.com/u/36056355?s=72&u=72a80e202efedaa82bba8885b4451ad638d7d236&v=4" width="24" alt="Avatar of EricLinSegarra"> EricLinSegarra
+			</a><br/>
+			Eric Lin Segarra, FDP
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich (relocating from Andorra)</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a href="https://github.com/AnnaTramun">
 				<img src="https://avatars.githubusercontent.com/u/72796577?s=72&u=f659cb89a5d77821ff6f6131d6004cba72d49bee&v=4" width="24" alt="Avatar of AnnaTramun"> AnnaTramun
 			</a><br/>
@@ -1646,7 +1660,7 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/real-felix">
 				<img src="https://avatars.githubusercontent.com/u/18555389?s=72&u=745d1118af9971e7256940f2a28723bbb548cd72&v=4" width="24" alt="Avatar of real-felix"> real-felix
@@ -1660,7 +1674,7 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/JuanMoroteP">
 				<img src="https://avatars.githubusercontent.com/u/45626958?s=72&u=ba4fce81772db14da002b613f8909882a93991f0&v=4" width="24" alt="Avatar of JuanMoroteP"> JuanMoroteP
@@ -1670,20 +1684,6 @@ There are `424 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Institut Puig Castellar </td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramanet</td>
-		<td>21</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/EricLinSegarra">
-				<img src="https://avatars.githubusercontent.com/u/36056355?s=72&u=72a80e202efedaa82bba8885b4451ad638d7d236&v=4" width="24" alt="Avatar of EricLinSegarra"> EricLinSegarra
-			</a><br/>
-			Eric Lin Segarra, FDP
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich (relocating from Andorra)</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
