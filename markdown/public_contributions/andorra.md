@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/10/7 9:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/10/7 12:23 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@kaleidos & @penpot </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>2043</td>
+		<td>2049</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -211,6 +211,19 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>9</td>
 		<td>
+			<a href="https://github.com/druedaro">
+				<img src="https://avatars.githubusercontent.com/u/213171073?s=72&u=f69d61a0160225750b1dcddc7540e0a279ab2a4b&v=4" width="24" alt="Avatar of druedaro"> druedaro
+			</a><br/>
+			David Rueda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>328</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
 			<a href="https://github.com/NachiBasaldella">
 				<img src="https://avatars.githubusercontent.com/u/97797687?s=72&u=79d2b1123ee6e094a654c6cfa646aef02108ebd0&v=4" width="24" alt="Avatar of NachiBasaldella"> NachiBasaldella
 			</a><br/>
@@ -222,7 +235,7 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>323</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/iuriaranda">
 				<img src="https://avatars.githubusercontent.com/u/510809?s=72&v=4" width="24" alt="Avatar of iuriaranda"> iuriaranda
@@ -235,7 +248,7 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>264</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/Estemobs">
 				<img src="https://avatars.githubusercontent.com/u/57631804?s=72&u=74e9603231913b1954fccab0ddbf37a455402aaf&v=4" width="24" alt="Avatar of Estemobs"> Estemobs
@@ -246,19 +259,6 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>249</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/druedaro">
-				<img src="https://avatars.githubusercontent.com/u/213171073?s=72&u=f69d61a0160225750b1dcddc7540e0a279ab2a4b&v=4" width="24" alt="Avatar of druedaro"> druedaro
-			</a><br/>
-			David Rueda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>248</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -453,7 +453,7 @@ There are `425 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Mountain Path Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
-		<td>90</td>
+		<td>91</td>
 	</tr>
 	<tr>
 		<td>28</td>
