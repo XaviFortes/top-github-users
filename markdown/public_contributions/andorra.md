@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/10/10 5:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/10/10 8:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@kaleidos & @penpot </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>2061</td>
+		<td>2063</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1329,6 +1329,19 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>95</td>
 		<td>
+			<a href="https://github.com/cristiancunha-ad">
+				<img src="https://avatars.githubusercontent.com/u/234659559?s=72&u=dd22381093c588f29afd50da4edda9be5ae01bdc&v=4" width="24" alt="Avatar of cristiancunha-ad"> cristiancunha-ad
+			</a><br/>
+			Cristian Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra la Vella</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
 			<a href="https://github.com/maricarmenmartingomez">
 				<img src="https://avatars.githubusercontent.com/u/50134825?s=72&u=365228cbd4646b38bf90d7e7cb216e8f17bdd6b8&v=4" width="24" alt="Avatar of maricarmenmartingomez"> maricarmenmartingomez
 			</a><br/>
@@ -1340,7 +1353,7 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/rocduran">
 				<img src="https://avatars.githubusercontent.com/u/10318153?s=72&v=4" width="24" alt="Avatar of rocduran"> rocduran
@@ -1350,19 +1363,6 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra </td>
 		<td><a href="https://twitter.com/rocduran">rocduran</a></td>
 		<td>Andorra</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/cristiancunha-ad">
-				<img src="https://avatars.githubusercontent.com/u/234659559?s=72&u=dd22381093c588f29afd50da4edda9be5ae01bdc&v=4" width="24" alt="Avatar of cristiancunha-ad"> cristiancunha-ad
-			</a><br/>
-			Cristian Garcia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra la Vella</td>
 		<td>11</td>
 	</tr>
 	<tr>
