@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/10/10 2:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/10/10 5:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -245,7 +245,7 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@giantswarm </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>275</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -2265,8 +2265,8 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>167</td>
 		<td>
-			<a href="https://github.com/NovoJose">
-				<img src="https://avatars.githubusercontent.com/u/184384661?s=72&u=c60ce0652fb10ad5d4fe98cdde3a4e046b655fdc&v=4" width="24" alt="Avatar of NovoJose"> NovoJose
+			<a href="https://github.com/GrupoNovoDavid">
+				<img src="https://avatars.githubusercontent.com/u/184384661?s=72&u=c60ce0652fb10ad5d4fe98cdde3a4e046b655fdc&v=4" width="24" alt="Avatar of GrupoNovoDavid"> GrupoNovoDavid
 			</a><br/>
 			David Saborido Pérez
 		</td>
