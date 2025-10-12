@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/10/11 9:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/10/12 12:51 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -180,7 +180,7 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Quasar Store </td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Principality of Andorra</td>
-		<td>628</td>
+		<td>631</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -718,6 +718,19 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>48</td>
 		<td>
+			<a href="https://github.com/fjhidalgo-coding">
+				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
+			</a><br/>
+			Francisco Javier Hidalgo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a href="https://github.com/Franco-Lobos">
 				<img src="https://avatars.githubusercontent.com/u/85533059?s=72&u=e276cf9589fe6ffd226ae74fd14cdd66768560c7&v=4" width="24" alt="Avatar of Franco-Lobos"> Franco-Lobos
 			</a><br/>
@@ -727,19 +740,6 @@ There are `426 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>44</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/fjhidalgo-coding">
-				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
-			</a><br/>
-			Francisco Javier Hidalgo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>43</td>
 	</tr>
 	<tr>
 		<td>50</td>
