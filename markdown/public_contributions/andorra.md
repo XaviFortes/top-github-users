@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/10/12 1:18 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/10/12 4:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -653,6 +653,19 @@ There are `427 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/fjhidalgo-coding">
+				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
+			</a><br/>
+			Francisco Javier Hidalgo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/AidanBalap">
 				<img src="https://avatars.githubusercontent.com/u/50273055?s=72&u=d9304a61c57ca3c92f2ee39e6c8acaf614e4da03&v=4" width="24" alt="Avatar of AidanBalap"> AidanBalap
 			</a><br/>
@@ -662,19 +675,6 @@ There are `427 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>52</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/fjhidalgo-coding">
-				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
-			</a><br/>
-			Francisco Javier Hidalgo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>45</td>
