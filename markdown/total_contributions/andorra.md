@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/10/13 11:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/10/14 3:30 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -159,10 +159,24 @@ There are `427 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
 		<td>Andorra</td>
 		<td>154</td>
-		<td>2262</td>
+		<td>2264</td>
 	</tr>
 	<tr>
 		<td>5</td>
+		<td>
+			<a href="https://github.com/marcalj">
+				<img src="https://avatars.githubusercontent.com/u/63667?s=72&u=391890cbe3e917484e11390aca50638367d98b69&v=4" width="24" alt="Avatar of marcalj"> marcalj
+			</a><br/>
+			Marçal
+		</td>
+		<td>Lizcore </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>0</td>
+		<td>2172</td>
+	</tr>
+	<tr>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/hussein-aitlahcen">
 				<img src="https://avatars.githubusercontent.com/u/9103813?s=72&u=8ae26cf794cdbfc36ce096a69330bc31b582eec1&v=4" width="24" alt="Avatar of hussein-aitlahcen"> hussein-aitlahcen
@@ -174,20 +188,6 @@ There are `427 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>1391</td>
 		<td>2168</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/marcalj">
-				<img src="https://avatars.githubusercontent.com/u/63667?s=72&u=391890cbe3e917484e11390aca50638367d98b69&v=4" width="24" alt="Avatar of marcalj"> marcalj
-			</a><br/>
-			Marçal
-		</td>
-		<td>Lizcore </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>0</td>
-		<td>2166</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -592,8 +592,8 @@ There are `427 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Quasar Store </td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Principality of Andorra</td>
-		<td>629</td>
-		<td>629</td>
+		<td>631</td>
+		<td>631</td>
 	</tr>
 	<tr>
 		<td>36</td>
