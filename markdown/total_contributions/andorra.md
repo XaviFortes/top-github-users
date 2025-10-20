@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/10/20 8:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/10/20 11:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -159,7 +159,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
 		<td>Andorra</td>
 		<td>154</td>
-		<td>2389</td>
+		<td>2390</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -229,7 +229,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona (Spain) | Encamp (Andorra)</td>
 		<td>553</td>
-		<td>1866</td>
+		<td>1867</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -397,7 +397,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/Jorge__SVQ">Jorge__SVQ</a></td>
 		<td>Escaldes, Andorra</td>
 		<td>3</td>
-		<td>949</td>
+		<td>950</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -621,7 +621,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>82</td>
-		<td>568</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -640,6 +640,20 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/alexcastano">
+				<img src="https://avatars.githubusercontent.com/u/1745859?s=72&u=8f389c64bff2b9a578a7d7ada4f389ef2ef1e013&v=4" width="24" alt="Avatar of alexcastano"> alexcastano
+			</a><br/>
+			Alex Castaño
+		</td>
+		<td>Https://alexcastano. </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>17</td>
+		<td>506</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/prrrcl">
 				<img src="https://avatars.githubusercontent.com/u/44324243?s=72&u=cbb3daa04ec649e98f160b684b937882910df61a&v=4" width="24" alt="Avatar of prrrcl"> prrrcl
 			</a><br/>
@@ -650,20 +664,6 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>15</td>
 		<td>498</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/alexcastano">
-				<img src="https://avatars.githubusercontent.com/u/1745859?s=72&u=8f389c64bff2b9a578a7d7ada4f389ef2ef1e013&v=4" width="24" alt="Avatar of alexcastano"> alexcastano
-			</a><br/>
-			Alex Castaño
-		</td>
-		<td>Https://alexcastano. </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>17</td>
-		<td>493</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -943,7 +943,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
-		<td>213</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -998,8 +998,8 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Adoba </td>
 		<td><a href="https://twitter.com/allen_cn97">allen_cn97</a></td>
 		<td>Andorra</td>
-		<td>63</td>
-		<td>175</td>
+		<td>64</td>
+		<td>176</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -2881,7 +2881,7 @@ There are `428 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>199</td>
 		<td>
 			<a href="https://github.com/rbausili-intecom">
-				<img src="https://avatars.githubusercontent.com/u/227799419?s=72&v=4" width="24" alt="Avatar of rbausili-intecom"> rbausili-intecom
+				<img src="https://avatars.githubusercontent.com/u/227799419?s=72&u=7c7ae6f34e8f7f800e373ff54aad513293754239&v=4" width="24" alt="Avatar of rbausili-intecom"> rbausili-intecom
 			</a><br/>
 			Ricard
 		</td>
