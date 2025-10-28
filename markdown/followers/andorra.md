@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/10/27 11:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/10/28 3:39 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>927</td>
+		<td>926</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -627,6 +627,19 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/bielcarpi">
+				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
+			</a><br/>
+			Biel Carpi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/MichelKansou">
 				<img src="https://avatars.githubusercontent.com/u/15091838?s=72&u=b2832d5806c9161c43d646d87da7a46443eba141&v=4" width="24" alt="Avatar of MichelKansou"> MichelKansou
 			</a><br/>
@@ -638,7 +651,7 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/GPradaT">
 				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
@@ -651,7 +664,7 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/blackaichi">
 				<img src="https://avatars.githubusercontent.com/u/29255819?s=72&u=2f11de0e1495bc4e56cae549ff9f41ca3357c576&v=4" width="24" alt="Avatar of blackaichi"> blackaichi
@@ -662,19 +675,6 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona-Andorra</td>
 		<td>21</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/bielcarpi">
-				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
-			</a><br/>
-			Biel Carpi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>20</td>
 	</tr>
 	<tr>
 		<td>45</td>
