@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/10/31 7:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/10/31 10:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -484,19 +484,6 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/cadetill">
-				<img src="https://avatars.githubusercontent.com/u/1529242?s=72&u=c7d7d04e1a24504d026f30144653552536626b0e&v=4" width="24" alt="Avatar of cadetill"> cadetill
-			</a><br/>
-			cadetill
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/iuriaranda">
 				<img src="https://avatars.githubusercontent.com/u/510809?s=72&v=4" width="24" alt="Avatar of iuriaranda"> iuriaranda
 			</a><br/>
@@ -508,7 +495,7 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/acastellana">
 				<img src="https://avatars.githubusercontent.com/u/4104509?s=72&u=007eda1e25a421608bb2caf5cfc74296bc74c3cb&v=4" width="24" alt="Avatar of acastellana"> acastellana
@@ -517,6 +504,19 @@ There are `431 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>@yeagerai </td>
 		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
+		<td>Andorra</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/cadetill">
+				<img src="https://avatars.githubusercontent.com/u/1529242?s=72&u=c7d7d04e1a24504d026f30144653552536626b0e&v=4" width="24" alt="Avatar of cadetill"> cadetill
+			</a><br/>
+			cadetill
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>30</td>
 	</tr>
