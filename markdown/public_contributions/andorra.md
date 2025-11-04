@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/11/4 11:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/11/4 2:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -115,7 +115,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@kaleidos & @penpot </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>1976</td>
+		<td>1980</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -245,7 +245,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@giantswarm </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>281</td>
+		<td>285</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1160,19 +1160,6 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>82</td>
 		<td>
-			<a href="https://github.com/AlexAltea">
-				<img src="https://avatars.githubusercontent.com/u/5306886?s=72&u=4093cf848cf8bae60892b88ec9729ff5c0b9c36c&v=4" width="24" alt="Avatar of AlexAltea"> AlexAltea
-			</a><br/>
-			Alexandro Sanchez
-		</td>
-		<td>Astral Technologies </td>
-		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
-		<td>Les Escaldes, Andorra</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
 			<a href="https://github.com/alexcastano">
 				<img src="https://avatars.githubusercontent.com/u/1745859?s=72&u=8f389c64bff2b9a578a7d7ada4f389ef2ef1e013&v=4" width="24" alt="Avatar of alexcastano"> alexcastano
 			</a><br/>
@@ -1184,7 +1171,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/GRKdev">
 				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=ade1b72f06e3c23c3d6aa5412db5de94af9ef723&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
@@ -1197,7 +1184,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/JgomesAT">
 				<img src="https://avatars.githubusercontent.com/u/138443888?s=72&u=d5aed04ae9583c7946a06d242926ab974fe907b9&v=4" width="24" alt="Avatar of JgomesAT"> JgomesAT
@@ -1210,7 +1197,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/Virginiamichavi">
 				<img src="https://avatars.githubusercontent.com/u/170120363?s=72&v=4" width="24" alt="Avatar of Virginiamichavi"> Virginiamichavi
@@ -1223,7 +1210,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/temgo">
 				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&u=af345d2d4b6879d1856638e506c312e793d34eed&v=4" width="24" alt="Avatar of temgo"> temgo
@@ -1236,7 +1223,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/zhmailikvadim">
 				<img src="https://avatars.githubusercontent.com/u/56409854?s=72&u=cc5e9593d5301909ba34723614cffc8e3fbb6856&v=4" width="24" alt="Avatar of zhmailikvadim"> zhmailikvadim
@@ -1249,7 +1236,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/pabloosmo">
 				<img src="https://avatars.githubusercontent.com/u/129858617?s=72&u=e7b59ca97eddf1c2415edac2206167fa75453ad8&v=4" width="24" alt="Avatar of pabloosmo"> pabloosmo
@@ -1262,7 +1249,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/sergiorodenas">
 				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=8b1ecae9b4c7386d7c9b571f1929fcddf9b75996&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
@@ -1275,7 +1262,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/dvdjmnz">
 				<img src="https://avatars.githubusercontent.com/u/16350289?s=72&u=5ecfd1b3a804a452543448ed52779e85dcd00a35&v=4" width="24" alt="Avatar of dvdjmnz"> dvdjmnz
@@ -1288,7 +1275,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/bnj2789">
 				<img src="https://avatars.githubusercontent.com/u/39466176?s=72&u=22a46195c7e598488c5f50595c9dc0413db1979f&v=4" width="24" alt="Avatar of bnj2789"> bnj2789
@@ -1301,7 +1288,7 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/cristiancunha-ad">
 				<img src="https://avatars.githubusercontent.com/u/234659559?s=72&u=dd22381093c588f29afd50da4edda9be5ae01bdc&v=4" width="24" alt="Avatar of cristiancunha-ad"> cristiancunha-ad
@@ -1312,6 +1299,19 @@ There are `432 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
 		<td>12</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/AlexAltea">
+				<img src="https://avatars.githubusercontent.com/u/5306886?s=72&u=4093cf848cf8bae60892b88ec9729ff5c0b9c36c&v=4" width="24" alt="Avatar of AlexAltea"> AlexAltea
+			</a><br/>
+			Alexandro Sanchez
+		</td>
+		<td>Astral Technologies </td>
+		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
+		<td>Les Escaldes, Andorra</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>94</td>
