@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/11/7 5:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/11/7 8:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -926,23 +926,23 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/IvanBisultanov">
-				<img src="https://avatars.githubusercontent.com/u/11385603?s=72&u=7e785cb820a3980051c982b5c561847a3b3f3ba5&v=4" width="24" alt="Avatar of IvanBisultanov"> IvanBisultanov
-			</a><br/>
-			IvanBisultanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
 			<a href="https://github.com/ericfly02">
 				<img src="https://avatars.githubusercontent.com/u/20001491?s=72&u=3e6d71f858a6e887bbdddbe9594ab0f32bfcb214&v=4" width="24" alt="Avatar of ericfly02"> ericfly02
 			</a><br/>
 			EricGd
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/IvanBisultanov">
+				<img src="https://avatars.githubusercontent.com/u/11385603?s=72&u=7e785cb820a3980051c982b5c561847a3b3f3ba5&v=4" width="24" alt="Avatar of IvanBisultanov"> IvanBisultanov
+			</a><br/>
+			IvanBisultanov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2421,19 +2421,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>179</td>
 		<td>
-			<a href="https://github.com/aormazabal">
-				<img src="https://avatars.githubusercontent.com/u/2027765?s=72&u=abf56c1fbe33e75241464c72409b6bf3897d97e7&v=4" width="24" alt="Avatar of aormazabal"> aormazabal
-			</a><br/>
-			Albert Ormazabal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra / Castelló</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
 			<a href="https://github.com/manelfera">
 				<img src="https://avatars.githubusercontent.com/u/38794692?s=72&u=2fadf9ee078c528584e730aa2cc21f4546b0990c&v=4" width="24" alt="Avatar of manelfera"> manelfera
 			</a><br/>
@@ -2442,6 +2429,19 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/aormazabal">
+				<img src="https://avatars.githubusercontent.com/u/2027765?s=72&u=abf56c1fbe33e75241464c72409b6bf3897d97e7&v=4" width="24" alt="Avatar of aormazabal"> aormazabal
+			</a><br/>
+			Albert Ormazabal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra / Castelló</td>
 		<td>1</td>
 	</tr>
 	<tr>
