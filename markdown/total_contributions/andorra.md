@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/11/9 9:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/11/9 12:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -117,7 +117,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>10</td>
-		<td>36620</td>
+		<td>36622</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -368,8 +368,8 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@moveworkforward  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>233</td>
-		<td>1056</td>
+		<td>236</td>
+		<td>1061</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -397,7 +397,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>95</td>
-		<td>994</td>
+		<td>1009</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -682,6 +682,20 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>42</td>
 		<td>
+			<a href="https://github.com/stevenzeiler">
+				<img src="https://avatars.githubusercontent.com/u/508282?s=72&u=8bd6c74ae156eea761f11280ba9cd89ab0892bf3&v=4" width="24" alt="Avatar of stevenzeiler"> stevenzeiler
+			</a><br/>
+			Steven Zeiler
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/owenkelloggdev">owenkelloggdev</a></td>
+		<td>Andorra</td>
+		<td>148</td>
+		<td>447</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
 			<a href="https://github.com/paupenin">
 				<img src="https://avatars.githubusercontent.com/u/7164261?s=72&u=de0b0aff619e5ea1b499bd7bce4392eea230de66&v=4" width="24" alt="Avatar of paupenin"> paupenin
 			</a><br/>
@@ -692,20 +706,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra, Europe</td>
 		<td>6</td>
 		<td>446</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/stevenzeiler">
-				<img src="https://avatars.githubusercontent.com/u/508282?s=72&u=8bd6c74ae156eea761f11280ba9cd89ab0892bf3&v=4" width="24" alt="Avatar of stevenzeiler"> stevenzeiler
-			</a><br/>
-			Steven Zeiler
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/owenkelloggdev">owenkelloggdev</a></td>
-		<td>Andorra</td>
-		<td>141</td>
-		<td>440</td>
 	</tr>
 	<tr>
 		<td>44</td>

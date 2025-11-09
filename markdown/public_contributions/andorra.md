@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/11/9 9:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/11/9 12:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -258,7 +258,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@moveworkforward  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>233</td>
+		<td>236</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -354,6 +354,19 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/stevenzeiler">
+				<img src="https://avatars.githubusercontent.com/u/508282?s=72&u=8bd6c74ae156eea761f11280ba9cd89ab0892bf3&v=4" width="24" alt="Avatar of stevenzeiler"> stevenzeiler
+			</a><br/>
+			Steven Zeiler
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/owenkelloggdev">owenkelloggdev</a></td>
+		<td>Andorra</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/l3wi">
 				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
 			</a><br/>
@@ -365,7 +378,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/gabrielbarbera">
 				<img src="https://avatars.githubusercontent.com/u/3406817?s=72&u=982b2a0b6012bfc64127ede4c8b0df7850aebfcb&v=4" width="24" alt="Avatar of gabrielbarbera"> gabrielbarbera
@@ -376,19 +389,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>143</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/stevenzeiler">
-				<img src="https://avatars.githubusercontent.com/u/508282?s=72&u=8bd6c74ae156eea761f11280ba9cd89ab0892bf3&v=4" width="24" alt="Avatar of stevenzeiler"> stevenzeiler
-			</a><br/>
-			Steven Zeiler
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/owenkelloggdev">owenkelloggdev</a></td>
-		<td>Andorra</td>
-		<td>141</td>
 	</tr>
 	<tr>
 		<td>23</td>
