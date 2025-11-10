@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/11/10 7:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/11/10 10:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -154,7 +154,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>973</td>
+		<td>979</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -258,7 +258,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@moveworkforward  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>247</td>
+		<td>248</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1849,6 +1849,19 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
+			<a href="https://github.com/akurkin">
+				<img src="https://avatars.githubusercontent.com/u/88654?s=72&u=3e33fecdb9c8657ad2c326443ad2c7e8b65ceab2&v=4" width="24" alt="Avatar of akurkin"> akurkin
+			</a><br/>
+			Alex Kurkin
+		</td>
+		<td>@brilliantconsulting  </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
 			<a href="https://github.com/bielcarpi">
 				<img src="https://avatars.githubusercontent.com/u/92015499?s=72&u=3215b3d8a1c88898a5bff2753f57ff8980ae9684&v=4" width="24" alt="Avatar of bielcarpi"> bielcarpi
 			</a><br/>
@@ -1860,7 +1873,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
@@ -1873,7 +1886,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/agustinramos">
 				<img src="https://avatars.githubusercontent.com/u/22509950?s=72&u=34d832cc33649c629230ee2ab2fc8b23d0624329&v=4" width="24" alt="Avatar of agustinramos"> agustinramos
@@ -1886,7 +1899,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/nestorgt">
 				<img src="https://avatars.githubusercontent.com/u/4219449?s=72&u=42d18517791daa0964750965d3b2f00fa233373d&v=4" width="24" alt="Avatar of nestorgt"> nestorgt
@@ -1899,7 +1912,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/ZescherW">
 				<img src="https://avatars.githubusercontent.com/u/8476786?s=72&u=03c16a1a687ee3cc606bf5f675692232b7b9d9d5&v=4" width="24" alt="Avatar of ZescherW"> ZescherW
@@ -1912,7 +1925,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/neiromc">
 				<img src="https://avatars.githubusercontent.com/u/1948086?s=72&u=2e10f76e402a450c360ab4e1d6d750890e0b77ed&v=4" width="24" alt="Avatar of neiromc"> neiromc
@@ -1925,7 +1938,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/aormazabal">
 				<img src="https://avatars.githubusercontent.com/u/2027765?s=72&u=abf56c1fbe33e75241464c72409b6bf3897d97e7&v=4" width="24" alt="Avatar of aormazabal"> aormazabal
@@ -1938,7 +1951,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/OrbyCode">
 				<img src="https://avatars.githubusercontent.com/u/167002224?s=72&u=ce09bc6be4468a40e8798b17ef14889320dab873&v=4" width="24" alt="Avatar of OrbyCode"> OrbyCode
@@ -1951,7 +1964,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/XFonty">
 				<img src="https://avatars.githubusercontent.com/u/141143676?s=72&v=4" width="24" alt="Avatar of XFonty"> XFonty
@@ -1964,7 +1977,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/clowdray">
 				<img src="https://avatars.githubusercontent.com/u/46500919?s=72&u=b28884897eab23e6588156c926191990b766552a&v=4" width="24" alt="Avatar of clowdray"> clowdray
@@ -1977,7 +1990,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/bcarvalhob">
 				<img src="https://avatars.githubusercontent.com/u/206083304?s=72&v=4" width="24" alt="Avatar of bcarvalhob"> bcarvalhob
@@ -1990,7 +2003,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/jgimeno">
 				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
@@ -1998,19 +2011,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 			Jonathan Gimeno
 		</td>
 		<td>@nibiruchain </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/akurkin">
-				<img src="https://avatars.githubusercontent.com/u/88654?s=72&u=3e33fecdb9c8657ad2c326443ad2c7e8b65ceab2&v=4" width="24" alt="Avatar of akurkin"> akurkin
-			</a><br/>
-			Alex Kurkin
-		</td>
-		<td>@brilliantconsulting  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
