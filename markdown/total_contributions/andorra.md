@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2025/11/11 2:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2025/11/11 5:13 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -117,7 +117,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>10</td>
-		<td>36208</td>
+		<td>36209</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>203</td>
-		<td>4567</td>
+		<td>4573</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -229,7 +229,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona (Spain) | Encamp (Andorra)</td>
 		<td>464</td>
-		<td>1745</td>
+		<td>1747</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra / Barcelona</td>
 		<td>56</td>
-		<td>1688</td>
+		<td>1690</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -270,8 +270,8 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>980</td>
-		<td>1410</td>
+		<td>981</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -341,7 +341,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
-		<td>1234</td>
+		<td>1235</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -369,7 +369,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>95</td>
-		<td>1076</td>
+		<td>1090</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -397,7 +397,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/Jorge__SVQ">Jorge__SVQ</a></td>
 		<td>Escaldes, Andorra</td>
 		<td>2</td>
-		<td>1012</td>
+		<td>1013</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -453,7 +453,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>289</td>
-		<td>897</td>
+		<td>900</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -500,6 +500,20 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/alexenc">
+				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
+			</a><br/>
+			Alex Encinas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>14</td>
+		<td>720</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/AdriaCarrera">
 				<img src="https://avatars.githubusercontent.com/u/23333654?s=72&u=bc6ea138bae5618279d7114adebfc02390eb58c7&v=4" width="24" alt="Avatar of AdriaCarrera"> AdriaCarrera
 			</a><br/>
@@ -510,20 +524,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>494</td>
 		<td>719</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/alexenc">
-				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
-			</a><br/>
-			Alex Encinas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>14</td>
-		<td>716</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -747,7 +747,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>49</td>
-		<td>397</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1433,7 +1433,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>55</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>96</td>
