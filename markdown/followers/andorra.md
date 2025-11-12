@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/11/12 4:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/11/12 7:15 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -245,7 +245,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Quasar Store </td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Principality of Andorra</td>
-		<td>100</td>
+		<td>99</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1056,6 +1056,19 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>74</td>
 		<td>
+			<a href="https://github.com/KaratelSH">
+				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
+			</a><br/>
+			Karatel
+		</td>
+		<td>Atlas Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
 			<a href="https://github.com/dj-navarro">
 				<img src="https://avatars.githubusercontent.com/u/56789665?s=72&u=245c23a45c6ddc35ace6c4e2d879dfecb20fe3ce&v=4" width="24" alt="Avatar of dj-navarro"> dj-navarro
 			</a><br/>
@@ -1067,7 +1080,7 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/jrecasens95">
 				<img src="https://avatars.githubusercontent.com/u/37191997?s=72&u=2603294942c74d995fa7fc882da7227519d516dc&v=4" width="24" alt="Avatar of jrecasens95"> jrecasens95
@@ -1075,19 +1088,6 @@ There are `433 users`  in Andorra. You need at least `0 followers` to be on this
 			Joan Recasens
 		</td>
 		<td>Donesoft </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/KaratelSH">
-				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
-			</a><br/>
-			Karatel
-		</td>
-		<td>Atlas Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>9</td>
