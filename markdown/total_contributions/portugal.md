@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2025/11/15 5:20 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2025/11/15 8:21 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -144,8 +144,8 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@miniclip </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>11168</td>
-		<td>12199</td>
+		<td>11169</td>
+		<td>12200</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -789,7 +789,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td><a href="https://twitter.com/datsfilipeXYZ">datsfilipeXYZ</a></td>
 		<td>Porto Franco - MA, Brasil</td>
 		<td>1219</td>
-		<td>2620</td>
+		<td>2622</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1256,6 +1256,20 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 	<tr>
 		<td>83</td>
 		<td>
+			<a href="https://github.com/yields">
+				<img src="https://avatars.githubusercontent.com/u/1661587?s=72&u=4eff924f23393c5329b04a8c4ae6b3a6623debf9&v=4" width="24" alt="Avatar of yields"> yields
+			</a><br/>
+			Amir Abushareb
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>5</td>
+		<td>2049</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
 			<a href="https://github.com/jbergstroem">
 				<img src="https://avatars.githubusercontent.com/u/176984?s=72&u=20efa9d6657e50f0ca68ea9a57774b2a0eb07398&v=4" width="24" alt="Avatar of jbergstroem"> jbergstroem
 			</a><br/>
@@ -1266,20 +1280,6 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>Lisbon, Portugal</td>
 		<td>262</td>
 		<td>2048</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/yields">
-				<img src="https://avatars.githubusercontent.com/u/1661587?s=72&u=4eff924f23393c5329b04a8c4ae6b3a6623debf9&v=4" width="24" alt="Avatar of yields"> yields
-			</a><br/>
-			Amir Abushareb
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>5</td>
-		<td>2047</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1908,8 +1908,8 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>411</td>
-		<td>1626</td>
+		<td>412</td>
+		<td>1627</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2007,7 +2007,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td><a href="https://twitter.com/_abo_abo">_abo_abo</a></td>
 		<td>Matosinhos, Portugal</td>
 		<td>53</td>
-		<td>1574</td>
+		<td>1581</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -3790,6 +3790,20 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 	<tr>
 		<td>264</td>
 		<td>
+			<a href="https://github.com/fellyph">
+				<img src="https://avatars.githubusercontent.com/u/330792?s=72&u=ca4d70244a8cc6cc65a929f2f33238876fbc3fff&v=4" width="24" alt="Avatar of fellyph"> fellyph
+			</a><br/>
+			Fellyph Cintra
+		</td>
+		<td>@automattic </td>
+		<td><a href="https://twitter.com/fellyph">fellyph</a></td>
+		<td>Lagos, Portugal</td>
+		<td>780</td>
+		<td>884</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
 			<a href="https://github.com/uLucasFraga">
 				<img src="https://avatars.githubusercontent.com/u/23031781?s=72&u=92be2523df55f5a6aae6fee705fc3917ee899c00&v=4" width="24" alt="Avatar of uLucasFraga"> uLucasFraga
 			</a><br/>
@@ -3800,20 +3814,6 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>Lisbon - PT</td>
 		<td>883</td>
 		<td>883</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/fellyph">
-				<img src="https://avatars.githubusercontent.com/u/330792?s=72&u=ca4d70244a8cc6cc65a929f2f33238876fbc3fff&v=4" width="24" alt="Avatar of fellyph"> fellyph
-			</a><br/>
-			Fellyph Cintra
-		</td>
-		<td>@automattic </td>
-		<td><a href="https://twitter.com/fellyph">fellyph</a></td>
-		<td>Lagos, Portugal</td>
-		<td>778</td>
-		<td>882</td>
 	</tr>
 	<tr>
 		<td>266</td>
