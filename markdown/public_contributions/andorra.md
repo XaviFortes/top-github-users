@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/11/16 6:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/11/16 9:13 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -692,6 +692,19 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/sebelga">
+				<img src="https://avatars.githubusercontent.com/u/2854616?s=72&u=59e7db7bb1c1eaab8773bc000a19f7d5ae294e55&v=4" width="24" alt="Avatar of sebelga"> sebelga
+			</a><br/>
+			Sébastien LVL
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/AidanBalap">
 				<img src="https://avatars.githubusercontent.com/u/50273055?s=72&u=d9304a61c57ca3c92f2ee39e6c8acaf614e4da03&v=4" width="24" alt="Avatar of AidanBalap"> AidanBalap
 			</a><br/>
@@ -701,19 +714,6 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>49</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/sebelga">
-				<img src="https://avatars.githubusercontent.com/u/2854616?s=72&u=59e7db7bb1c1eaab8773bc000a19f7d5ae294e55&v=4" width="24" alt="Avatar of sebelga"> sebelga
-			</a><br/>
-			Sébastien LVL
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>48</td>
 	</tr>
 	<tr>
 		<td>48</td>
