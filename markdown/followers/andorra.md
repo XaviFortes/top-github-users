@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/11/16 3:10 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/11/16 6:17 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -796,6 +796,19 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>54</td>
 		<td>
+			<a href="https://github.com/ghawthorne66">
+				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
+			</a><br/>
+			Greg Hawthorne
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
+		<td>Andorra la Vella, AD</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
 			<a href="https://github.com/jer0m">
 				<img src="https://avatars.githubusercontent.com/u/15550?s=72&u=0f6e74c189dd74fce8e429d2fa97d4bee2b836f4&v=4" width="24" alt="Avatar of jer0m"> jer0m
 			</a><br/>
@@ -807,7 +820,7 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/gneotux">
 				<img src="https://avatars.githubusercontent.com/u/1918857?s=72&u=8f4cbfb65728e934b92868df3e2df1beabc9ffd6&v=4" width="24" alt="Avatar of gneotux"> gneotux
@@ -817,19 +830,6 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/ghawthorne66">
-				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
-			</a><br/>
-			Greg Hawthorne
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
-		<td>Andorra la Vella, AD</td>
 		<td>15</td>
 	</tr>
 	<tr>
