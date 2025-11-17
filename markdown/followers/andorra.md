@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/11/17 4:17 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/11/17 7:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
-There are `434 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `435 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -414,7 +414,7 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -1043,19 +1043,6 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/fjhidalgo-coding">
-				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
-			</a><br/>
-			Francisco Javier Hidalgo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/KaratelSH">
 				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
 			</a><br/>
@@ -1067,7 +1054,7 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/jrecasens95">
 				<img src="https://avatars.githubusercontent.com/u/37191997?s=72&u=2603294942c74d995fa7fc882da7227519d516dc&v=4" width="24" alt="Avatar of jrecasens95"> jrecasens95
@@ -1077,6 +1064,19 @@ There are `434 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Donesoft </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/fjhidalgo-coding">
+				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
+			</a><br/>
+			Francisco Javier Hidalgo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
+		<td>Santa Coloma de Gramenet</td>
 		<td>9</td>
 	</tr>
 	<tr>
