@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` by users in Spain on `2025/12/8 2:56 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` by users in Spain on `2025/12/8 5:25 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>@posit-pbc </td>
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
-		<td>12385</td>
+		<td>12386</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -206,7 +206,7 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/juanantoniobm">juanantoniobm</a></td>
 		<td>Madrid, Spain</td>
-		<td>3923</td>
+		<td>3927</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -661,7 +661,7 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>@ahrefs </td>
 		<td><a href="https://twitter.com/davesnx">davesnx</a></td>
 		<td>Barcelona</td>
-		<td>2004</td>
+		<td>2008</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -687,7 +687,7 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Aarf4548">Aarf4548</a></td>
 		<td>Spain</td>
-		<td>1926</td>
+		<td>1927</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1753,7 +1753,7 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madrid, Spain</td>
-		<td>865</td>
+		<td>866</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -5476,19 +5476,6 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 	<tr>
 		<td>414</td>
 		<td>
-			<a href="https://github.com/dub-flow">
-				<img src="https://avatars.githubusercontent.com/u/89262088?s=72&u=faed71bdd38bc81bf07969c128b707aeafa5bc51&v=4" width="24" alt="Avatar of dub-flow"> dub-flow
-			</a><br/>
-			Florian Walter
-		</td>
-		<td>Leotrace </td>
-		<td>No Twitter Username</td>
-		<td>Spain</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
 			<a href="https://github.com/marcomusy">
 				<img src="https://avatars.githubusercontent.com/u/32848391?s=72&u=ea7a4b55db0eae4c87151f96ead57769a2c75cc9&v=4" width="24" alt="Avatar of marcomusy"> marcomusy
 			</a><br/>
@@ -5497,6 +5484,19 @@ There are `945 users`  in Spain. You need at least `128 followers` to be on this
 		<td>Elisava </td>
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/dub-flow">
+				<img src="https://avatars.githubusercontent.com/u/89262088?s=72&u=faed71bdd38bc81bf07969c128b707aeafa5bc51&v=4" width="24" alt="Avatar of dub-flow"> dub-flow
+			</a><br/>
+			Florian Walter
+		</td>
+		<td>Leotrace </td>
+		<td>No Twitter Username</td>
+		<td>Spain</td>
 		<td>139</td>
 	</tr>
 	<tr>
