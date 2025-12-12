@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/12/12 6:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/12/12 10:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -635,7 +635,7 @@ There are `440 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Disney </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -796,19 +796,6 @@ There are `440 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/ghawthorne66">
-				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
-			</a><br/>
-			Greg Hawthorne
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
-		<td>Andorra la Vella, AD</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/jer0m">
 				<img src="https://avatars.githubusercontent.com/u/15550?s=72&u=0f6e74c189dd74fce8e429d2fa97d4bee2b836f4&v=4" width="24" alt="Avatar of jer0m"> jer0m
 			</a><br/>
@@ -820,7 +807,7 @@ There are `440 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/mcarmenmg">
 				<img src="https://avatars.githubusercontent.com/u/82008?s=72&u=b006e3df7a99b4b0ef395f5fcd81eded95bf5fed&v=4" width="24" alt="Avatar of mcarmenmg"> mcarmenmg
@@ -830,6 +817,19 @@ There are `440 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>The Growth Land </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/ghawthorne66">
+				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
+			</a><br/>
+			Greg Hawthorne
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
+		<td>Andorra la Vella, AD</td>
 		<td>15</td>
 	</tr>
 	<tr>
