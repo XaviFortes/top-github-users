@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/12/17 8:20 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/12/17 11:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -2824,19 +2824,6 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>210</td>
 		<td>
-			<a href="https://github.com/cordeliasguy">
-				<img src="https://avatars.githubusercontent.com/u/74499090?s=72&u=8dbde19a23c0fa12ea781c83f3386acf9176eac3&v=4" width="24" alt="Avatar of cordeliasguy"> cordeliasguy
-			</a><br/>
-			Daniel A. Caballero
-		</td>
-		<td>Byxone </td>
-		<td><a href="https://twitter.com/CordeliasGuy">CordeliasGuy</a></td>
-		<td>Escaldes-Engordany, Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
 			<a href="https://github.com/FabioIndustries">
 				<img src="https://avatars.githubusercontent.com/u/77511365?s=72&u=19bf0cd591f6f0b569cd7cd1333452b6b5f1665a&v=4" width="24" alt="Avatar of FabioIndustries"> FabioIndustries
 			</a><br/>
@@ -2845,6 +2832,19 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/cordeliasguy">
+				<img src="https://avatars.githubusercontent.com/u/74499090?s=72&u=8dbde19a23c0fa12ea781c83f3386acf9176eac3&v=4" width="24" alt="Avatar of cordeliasguy"> cordeliasguy
+			</a><br/>
+			Daniel A. Caballero
+		</td>
+		<td>Byxone </td>
+		<td><a href="https://twitter.com/CordeliasGuy">CordeliasGuy</a></td>
+		<td>Escaldes-Engordany, Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
