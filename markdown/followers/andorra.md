@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/12/22 2:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/12/22 5:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -250,6 +250,19 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/JMariadlcs">
+				<img src="https://avatars.githubusercontent.com/u/74883388?s=72&u=93ec3c1355be69f34fd4dc55511952426480f1ac&v=4" width="24" alt="Avatar of JMariadlcs"> JMariadlcs
+			</a><br/>
+			Jose María de la Cruz
+		</td>
+		<td>Carlos Iii Madrid -<br/>Rwth<br/>Aachen<br/>University<br/><br/></td>
+		<td><a href="https://twitter.com/0xjmaria">0xjmaria</a></td>
+		<td>Andorra</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/facundomedica">
 				<img src="https://avatars.githubusercontent.com/u/14063057?s=72&u=c81e4349cbaf8f2aceea06bc9718720d6a2b9244&v=4" width="24" alt="Avatar of facundomedica"> facundomedica
 			</a><br/>
@@ -261,7 +274,7 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/ericrisco">
 				<img src="https://avatars.githubusercontent.com/u/20164590?s=72&u=46ae6af4530ef90ae233c36f2513c7c2dd3eb9e1&v=4" width="24" alt="Avatar of ericrisco"> ericrisco
@@ -270,19 +283,6 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Andorra Telecom </td>
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
-		<td>Andorra</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/JMariadlcs">
-				<img src="https://avatars.githubusercontent.com/u/74883388?s=72&u=93ec3c1355be69f34fd4dc55511952426480f1ac&v=4" width="24" alt="Avatar of JMariadlcs"> JMariadlcs
-			</a><br/>
-			Jose María de la Cruz
-		</td>
-		<td>Carlos Iii Madrid -<br/>Rwth<br/>Aachen<br/>University<br/><br/></td>
-		<td><a href="https://twitter.com/0xjmaria">0xjmaria</a></td>
 		<td>Andorra</td>
 		<td>92</td>
 	</tr>
@@ -1017,6 +1017,19 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/MGAlvarez1989">
+				<img src="https://avatars.githubusercontent.com/u/130353871?s=72&u=10561c6003baa6d96b09422f1db47d4b0cba6be1&v=4" width="24" alt="Avatar of MGAlvarez1989"> MGAlvarez1989
+			</a><br/>
+			Matias Gonzalo Alvarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Queralt, Tarragona, Spain</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/madeinchema">
 				<img src="https://avatars.githubusercontent.com/u/26657998?s=72&u=4404d7e80292fbdcb3ddbfc8aaeafa9d6d7bc6ac&v=4" width="24" alt="Avatar of madeinchema"> madeinchema
 			</a><br/>
@@ -1028,7 +1041,7 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/KaratelSH">
 				<img src="https://avatars.githubusercontent.com/u/195018478?s=72&u=77d56b6d26b3adfb6a02a423747ec474805fac5d&v=4" width="24" alt="Avatar of KaratelSH"> KaratelSH
@@ -1041,7 +1054,7 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/jrecasens95">
 				<img src="https://avatars.githubusercontent.com/u/37191997?s=72&u=2603294942c74d995fa7fc882da7227519d516dc&v=4" width="24" alt="Avatar of jrecasens95"> jrecasens95
@@ -1051,19 +1064,6 @@ There are `441 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Donesoft </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/MGAlvarez1989">
-				<img src="https://avatars.githubusercontent.com/u/130353871?s=72&u=10561c6003baa6d96b09422f1db47d4b0cba6be1&v=4" width="24" alt="Avatar of MGAlvarez1989"> MGAlvarez1989
-			</a><br/>
-			Matias Gonzalo Alvarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Queralt, Tarragona, Spain</td>
 		<td>9</td>
 	</tr>
 	<tr>
