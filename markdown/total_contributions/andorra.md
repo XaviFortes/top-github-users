@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2026/1/2 11:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2026/1/2 2:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -173,7 +173,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>3</td>
-		<td>3095</td>
+		<td>3097</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -369,7 +369,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/Jorge__SVQ">Jorge__SVQ</a></td>
 		<td>Escaldes, Andorra</td>
 		<td>7</td>
-		<td>1180</td>
+		<td>1181</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -509,7 +509,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/matchilling">matchilling</a></td>
 		<td>Andorra</td>
 		<td>62</td>
-		<td>851</td>
+		<td>852</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -733,7 +733,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>442</td>
+		<td>444</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1152,8 +1152,8 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Https://tanukilabs.x </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>126</td>
-		<td>126</td>
+		<td>127</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1228,6 +1228,20 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>81</td>
 		<td>
+			<a href="https://github.com/rjara001">
+				<img src="https://avatars.githubusercontent.com/u/1524045?s=72&v=4" width="24" alt="Avatar of rjara001"> rjara001
+			</a><br/>
+			Rodrigo
+		</td>
+		<td>Sant Julia De Loria<br/></td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>96</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
 			<a href="https://github.com/EdKenbers">
 				<img src="https://avatars.githubusercontent.com/u/7468461?s=72&u=e61549f54759c14cb4c80d41b2a22aabb8575789&v=4" width="24" alt="Avatar of EdKenbers"> EdKenbers
 			</a><br/>
@@ -1240,7 +1254,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/BielAlmanza">
 				<img src="https://avatars.githubusercontent.com/u/166560094?s=72&u=f1f4d737ebb0f09246c061587a5d80d88cf74ce7&v=4" width="24" alt="Avatar of BielAlmanza"> BielAlmanza
@@ -1254,7 +1268,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/fjhidalgo-coding">
 				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
@@ -1264,20 +1278,6 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
 		<td>Santa Coloma de Gramenet</td>
-		<td>93</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/rjara001">
-				<img src="https://avatars.githubusercontent.com/u/1524045?s=72&v=4" width="24" alt="Avatar of rjara001"> rjara001
-			</a><br/>
-			Rodrigo
-		</td>
-		<td>Sant Julia De Loria<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
 		<td>93</td>
 		<td>93</td>
 	</tr>
