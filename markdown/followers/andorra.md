@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/4 8:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/4 11:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -1862,19 +1862,6 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/temgo">
-				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&u=af345d2d4b6879d1856638e506c312e793d34eed&v=4" width="24" alt="Avatar of temgo"> temgo
-			</a><br/>
-			Jacques Temgo
-		</td>
-		<td>Afribapay Inc </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
 			<a href="https://github.com/xeitu">
 				<img src="https://avatars.githubusercontent.com/u/36117816?s=72&u=9297e2c1cd748a4ac33a9e3cae25c3ade253dead&v=4" width="24" alt="Avatar of xeitu"> xeitu
 			</a><br/>
@@ -1886,7 +1873,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/koredecodes">
 				<img src="https://avatars.githubusercontent.com/u/118663191?s=72&u=9ed3cc4e1be47ee532b1ab84da66bf29585e1340&v=4" width="24" alt="Avatar of koredecodes"> koredecodes
@@ -1896,6 +1883,19 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CodesKorede">CodesKorede</a></td>
 		<td>Andorra la Vella, Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/temgo">
+				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&u=af345d2d4b6879d1856638e506c312e793d34eed&v=4" width="24" alt="Avatar of temgo"> temgo
+			</a><br/>
+			Jacques Temgo
+		</td>
+		<td>Afribapay Inc </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
