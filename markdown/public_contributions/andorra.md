@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/1/5 4:52 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/1/5 7:25 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -406,6 +406,19 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/vanillevault">
+				<img src="https://avatars.githubusercontent.com/u/114163727?s=72&u=206df986039667966fda806002c1b27a607acf88&v=4" width="24" alt="Avatar of vanillevault"> vanillevault
+			</a><br/>
+			Adrian e Silva Giménez 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
 			<a href="https://github.com/stevenzeiler">
 				<img src="https://avatars.githubusercontent.com/u/508282?s=72&u=8bd6c74ae156eea761f11280ba9cd89ab0892bf3&v=4" width="24" alt="Avatar of stevenzeiler"> stevenzeiler
 			</a><br/>
@@ -417,7 +430,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/damarnez">
 				<img src="https://avatars.githubusercontent.com/u/1387222?s=72&v=4" width="24" alt="Avatar of damarnez"> damarnez
@@ -430,25 +443,12 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/sgirones">
 				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=3584c79d8e81ee0cdbaac2c02745827410d4209a&v=4" width="24" alt="Avatar of sgirones"> sgirones
 			</a><br/>
 			Salvador Gironès Gil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/vanillevault">
-				<img src="https://avatars.githubusercontent.com/u/114163727?s=72&u=206df986039667966fda806002c1b27a607acf88&v=4" width="24" alt="Avatar of vanillevault"> vanillevault
-			</a><br/>
-			Adrian e Silva Giménez 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
