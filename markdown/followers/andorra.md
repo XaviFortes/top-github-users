@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/6 2:17 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/6 6:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -2616,19 +2616,6 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>194</td>
 		<td>
-			<a href="https://github.com/backendbtw">
-				<img src="https://avatars.githubusercontent.com/u/148233724?s=72&u=809b3f9318702458d2014c0b292d58441b6227a0&v=4" width="24" alt="Avatar of backendbtw"> backendbtw
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
 			<a href="https://github.com/LluisTorrojaFontanet">
 				<img src="https://avatars.githubusercontent.com/u/32802626?s=72&v=4" width="24" alt="Avatar of LluisTorrojaFontanet"> LluisTorrojaFontanet
 			</a><br/>
@@ -2637,6 +2624,19 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Caixa Andorrana De La<br/>Seguretat<br/>Social<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/backendbtw">
+				<img src="https://avatars.githubusercontent.com/u/148233724?s=72&u=809b3f9318702458d2014c0b292d58441b6227a0&v=4" width="24" alt="Avatar of backendbtw"> backendbtw
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
