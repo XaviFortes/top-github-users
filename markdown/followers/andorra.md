@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/7 1:36 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/7 4:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -141,7 +141,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Block 6.282e+10 </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>575</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1914,19 +1914,6 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/AlbertPMarti">
-				<img src="https://avatars.githubusercontent.com/u/39406701?s=72&u=c159ae4bfc3d514a21c8c0ef442190e45cbb10cb&v=4" width="24" alt="Avatar of AlbertPMarti"> AlbertPMarti
-			</a><br/>
-			Albert P. Martí
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
 			<a href="https://github.com/grxnd3r">
 				<img src="https://avatars.githubusercontent.com/u/110067875?s=72&u=02a5f9d6ff8b4500f18c5dafe4f17d3450a39616&v=4" width="24" alt="Avatar of grxnd3r"> grxnd3r
 			</a><br/>
@@ -1935,6 +1922,19 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Aleaur </td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/AlbertPMarti">
+				<img src="https://avatars.githubusercontent.com/u/39406701?s=72&u=c159ae4bfc3d514a21c8c0ef442190e45cbb10cb&v=4" width="24" alt="Avatar of AlbertPMarti"> AlbertPMarti
+			</a><br/>
+			Albert P. Martí
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2005,19 +2005,6 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>147</td>
 		<td>
-			<a href="https://github.com/david-miralles">
-				<img src="https://avatars.githubusercontent.com/u/76420616?s=72&u=927595da1d2020bd3c2fe3bec42a03dcbcf3e078&v=4" width="24" alt="Avatar of david-miralles"> david-miralles
-			</a><br/>
-			David Miralles
-		</td>
-		<td>@dualimind  </td>
-		<td><a href="https://twitter.com/davidmiralles">davidmiralles</a></td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
 			<a href="https://github.com/salva73">
 				<img src="https://avatars.githubusercontent.com/u/2588632?s=72&u=5e00c6056d4021b52fd7cfc366e1af9322883798&v=4" width="24" alt="Avatar of salva73"> salva73
 			</a><br/>
@@ -2029,7 +2016,7 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/fakepaulbugeja">
 				<img src="https://avatars.githubusercontent.com/u/37159240?s=72&u=91ab39ae585dfdd6bb437319b119455b44d83ff0&v=4" width="24" alt="Avatar of fakepaulbugeja"> fakepaulbugeja
@@ -2038,6 +2025,19 @@ There are `443 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fakepaulbugeja">fakepaulbugeja</a></td>
+		<td>Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/david-miralles">
+				<img src="https://avatars.githubusercontent.com/u/76420616?s=72&u=927595da1d2020bd3c2fe3bec42a03dcbcf3e078&v=4" width="24" alt="Avatar of david-miralles"> david-miralles
+			</a><br/>
+			David Miralles
+		</td>
+		<td>@dualimind  </td>
+		<td><a href="https://twitter.com/davidmiralles">davidmiralles</a></td>
 		<td>Andorra</td>
 		<td>2</td>
 	</tr>
