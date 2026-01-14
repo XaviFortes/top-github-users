@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/13 8:17 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/14 12:59 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -2837,19 +2837,6 @@ There are `445 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>211</td>
 		<td>
-			<a href="https://github.com/cordeliasguy">
-				<img src="https://avatars.githubusercontent.com/u/74499090?s=72&u=8dbde19a23c0fa12ea781c83f3386acf9176eac3&v=4" width="24" alt="Avatar of cordeliasguy"> cordeliasguy
-			</a><br/>
-			Daniel A. Caballero
-		</td>
-		<td>Byxone </td>
-		<td><a href="https://twitter.com/CordeliasGuy">CordeliasGuy</a></td>
-		<td>Escaldes-Engordany, Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
 			<a href="https://github.com/kramgalera">
 				<img src="https://avatars.githubusercontent.com/u/107694760?s=72&u=a043f4f3d6c1383267aa05e23d5a45d7e8651f5e&v=4" width="24" alt="Avatar of kramgalera"> kramgalera
 			</a><br/>
@@ -2858,6 +2845,19 @@ There are `445 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Ari </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/cordeliasguy">
+				<img src="https://avatars.githubusercontent.com/u/74499090?s=72&u=8dbde19a23c0fa12ea781c83f3386acf9176eac3&v=4" width="24" alt="Avatar of cordeliasguy"> cordeliasguy
+			</a><br/>
+			Daniel A. Caballero
+		</td>
+		<td>Byxone </td>
+		<td><a href="https://twitter.com/CordeliasGuy">CordeliasGuy</a></td>
+		<td>Escaldes-Engordany, Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
