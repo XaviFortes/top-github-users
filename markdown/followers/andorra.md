@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/23 4:48 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/23 8:20 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -219,7 +219,7 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@chucknorris-io @tronalddump-io @bojo-ai @dogfooding<br/>@klarna<br/>@equalexperts<br/>@jugendstil-io<br/>@newstore<br/><br/></td>
 		<td><a href="https://twitter.com/matchilling">matchilling</a></td>
 		<td>Andorra</td>
-		<td>126</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -276,19 +276,6 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/XaviTorello">
-				<img src="https://avatars.githubusercontent.com/u/8709244?s=72&u=a40df1c3d2c71784cf7f80f4f8f7ab29598eb57f&v=4" width="24" alt="Avatar of XaviTorello"> XaviTorello
-			</a><br/>
-			Xavi Torelló
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/ericrisco">
 				<img src="https://avatars.githubusercontent.com/u/20164590?s=72&u=46ae6af4530ef90ae233c36f2513c7c2dd3eb9e1&v=4" width="24" alt="Avatar of ericrisco"> ericrisco
 			</a><br/>
@@ -298,6 +285,19 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
 		<td>Andorra</td>
 		<td>90</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/XaviTorello">
+				<img src="https://avatars.githubusercontent.com/u/8709244?s=72&u=a40df1c3d2c71784cf7f80f4f8f7ab29598eb57f&v=4" width="24" alt="Avatar of XaviTorello"> XaviTorello
+			</a><br/>
+			Xavi Torelló
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>89</td>
 	</tr>
 	<tr>
 		<td>16</td>
