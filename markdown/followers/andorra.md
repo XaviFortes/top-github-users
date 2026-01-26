@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/1/25 9:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/1/26 1:03 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -991,19 +991,6 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/madeinchema">
-				<img src="https://avatars.githubusercontent.com/u/26657998?s=72&u=4404d7e80292fbdcb3ddbfc8aaeafa9d6d7bc6ac&v=4" width="24" alt="Avatar of madeinchema"> madeinchema
-			</a><br/>
-			José María Verdú
-		</td>
-		<td>@4finance </td>
-		<td>No Twitter Username</td>
-		<td>Andorra La Vella, Andorra</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/insodel">
 				<img src="https://avatars.githubusercontent.com/u/86533955?s=72&u=60607b483d4e256382e9488bc0fa3d49e6c77644&v=4" width="24" alt="Avatar of insodel"> insodel
 			</a><br/>
@@ -1012,6 +999,19 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/madeinchema">
+				<img src="https://avatars.githubusercontent.com/u/26657998?s=72&u=4404d7e80292fbdcb3ddbfc8aaeafa9d6d7bc6ac&v=4" width="24" alt="Avatar of madeinchema"> madeinchema
+			</a><br/>
+			José María Verdú
+		</td>
+		<td>@4finance </td>
+		<td>No Twitter Username</td>
+		<td>Andorra La Vella, Andorra</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -2317,19 +2317,6 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>171</td>
 		<td>
-			<a href="https://github.com/EricLinSegarra">
-				<img src="https://avatars.githubusercontent.com/u/36056355?s=72&u=72a80e202efedaa82bba8885b4451ad638d7d236&v=4" width="24" alt="Avatar of EricLinSegarra"> EricLinSegarra
-			</a><br/>
-			Eric Lin Segarra, FDP
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich (relocating from Andorra)</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
 			<a href="https://github.com/polmoya">
 				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
 			</a><br/>
@@ -2338,6 +2325,19 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/EricLinSegarra">
+				<img src="https://avatars.githubusercontent.com/u/36056355?s=72&u=72a80e202efedaa82bba8885b4451ad638d7d236&v=4" width="24" alt="Avatar of EricLinSegarra"> EricLinSegarra
+			</a><br/>
+			Eric Lin Segarra, FDP
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich (relocating from Andorra)</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2629,19 +2629,6 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>195</td>
 		<td>
-			<a href="https://github.com/backendbtw">
-				<img src="https://avatars.githubusercontent.com/u/148233724?s=72&u=809b3f9318702458d2014c0b292d58441b6227a0&v=4" width="24" alt="Avatar of backendbtw"> backendbtw
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
 			<a href="https://github.com/LluisTorrojaFontanet">
 				<img src="https://avatars.githubusercontent.com/u/32802626?s=72&v=4" width="24" alt="Avatar of LluisTorrojaFontanet"> LluisTorrojaFontanet
 			</a><br/>
@@ -2650,6 +2637,19 @@ There are `446 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Caixa Andorrana De La<br/>Seguretat<br/>Social<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/backendbtw">
+				<img src="https://avatars.githubusercontent.com/u/148233724?s=72&u=809b3f9318702458d2014c0b292d58441b6227a0&v=4" width="24" alt="Avatar of backendbtw"> backendbtw
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
