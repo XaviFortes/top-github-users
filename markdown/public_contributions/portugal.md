@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` by users in Portugal on `2026/1/27 1:09 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` by users in Portugal on `2026/1/27 5:30 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -154,7 +154,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@eclipse @soujava @apache </td>
 		<td><a href="https://twitter.com/otaviojava">otaviojava</a></td>
 		<td>Portugal</td>
-		<td>5658</td>
+		<td>5710</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -570,7 +570,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>Hive Solutions </td>
 		<td><a href="https://twitter.com/joamag">joamag</a></td>
 		<td>Porto, Portugal</td>
-		<td>1305</td>
+		<td>1306</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -583,7 +583,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>Eclo Solutions </td>
 		<td><a href="https://twitter.com/Jose_Simoes">Jose_Simoes</a></td>
 		<td>Leiria, Portugal</td>
-		<td>1287</td>
+		<td>1288</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -908,7 +908,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@rocketchat  </td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, Brazil</td>
-		<td>1003</td>
+		<td>1004</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -926,6 +926,19 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 	<tr>
 		<td>64</td>
 		<td>
+			<a href="https://github.com/tofumatt">
+				<img src="https://avatars.githubusercontent.com/u/90871?s=72&u=08bd27880180309b5c97e3ceab7504d9c79fbefc&v=4" width="24" alt="Avatar of tofumatt"> tofumatt
+			</a><br/>
+			Matthew Riley MacPherson
+		</td>
+		<td>@octopusthink </td>
+		<td><a href="https://twitter.com/tofumatt">tofumatt</a></td>
+		<td>Portugal/Scotland</td>
+		<td>979</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
 			<a href="https://github.com/filipecabaco">
 				<img src="https://avatars.githubusercontent.com/u/1697301?s=72&u=89c1d70163ea56981515b72827edad3195f30be4&v=4" width="24" alt="Avatar of filipecabaco"> filipecabaco
 			</a><br/>
@@ -935,19 +948,6 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td><a href="https://twitter.com/filipecabaco">filipecabaco</a></td>
 		<td>Lisbon</td>
 		<td>979</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/tofumatt">
-				<img src="https://avatars.githubusercontent.com/u/90871?s=72&u=08bd27880180309b5c97e3ceab7504d9c79fbefc&v=4" width="24" alt="Avatar of tofumatt"> tofumatt
-			</a><br/>
-			Matthew Riley MacPherson
-		</td>
-		<td>@octopusthink </td>
-		<td><a href="https://twitter.com/tofumatt">tofumatt</a></td>
-		<td>Portugal/Scotland</td>
-		<td>978</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1038,7 +1038,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lisboa, Portugal</td>
-		<td>895</td>
+		<td>896</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1298,7 +1298,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@dickhardt </td>
 		<td><a href="https://twitter.com/DickHardt">DickHardt</a></td>
 		<td>Lisbon</td>
-		<td>760</td>
+		<td>761</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1415,7 +1415,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@elastic  </td>
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
-		<td>688</td>
+		<td>690</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -2299,7 +2299,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@feedzai  </td>
 		<td><a href="https://twitter.com/waldyrious">waldyrious</a></td>
 		<td>Braga, Portugal</td>
-		<td>412</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -2325,7 +2325,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@dogecoinfoundation @dogeorg  </td>
 		<td><a href="https://twitter.com/inevitable360">inevitable360</a></td>
 		<td>Portugal</td>
-		<td>397</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2837,6 +2837,19 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/malikpiara">
+				<img src="https://avatars.githubusercontent.com/u/6923650?s=72&u=622fae3f00decc804a16f53db543f493c92d50c2&v=4" width="24" alt="Avatar of malikpiara"> malikpiara
+			</a><br/>
+			Malik Piara
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/casapiara">casapiara</a></td>
+		<td>Lisboa, Portugal</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/remonh87">
 				<img src="https://avatars.githubusercontent.com/u/20230599?s=72&u=01bec981a2bb1a880dd07cd469a30c7f6d7e5c23&v=4" width="24" alt="Avatar of remonh87"> remonh87
 			</a><br/>
@@ -2846,19 +2859,6 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Porto</td>
 		<td>303</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/malikpiara">
-				<img src="https://avatars.githubusercontent.com/u/6923650?s=72&u=622fae3f00decc804a16f53db543f493c92d50c2&v=4" width="24" alt="Avatar of malikpiara"> malikpiara
-			</a><br/>
-			Malik Piara
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/casapiara">casapiara</a></td>
-		<td>Lisboa, Portugal</td>
-		<td>302</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -4028,7 +4028,7 @@ There are `964 users`  in Portugal. You need at least `77 followers` to be on th
 		<td>@codrops  </td>
 		<td><a href="https://twitter.com/crnacura">crnacura</a></td>
 		<td>Portimão, Portugal</td>
-		<td>143</td>
+		<td>145</td>
 	</tr>
 	<tr>
 		<td>303</td>
