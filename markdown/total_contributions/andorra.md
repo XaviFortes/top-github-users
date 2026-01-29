@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2026/1/28 10:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2026/1/29 4:02 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -159,7 +159,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>23</td>
-		<td>3480</td>
+		<td>3496</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>25</td>
-		<td>2393</td>
+		<td>2396</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -495,7 +495,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>13</td>
-		<td>887</td>
+		<td>888</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -606,8 +606,8 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Quasar Store </td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Principality of Andorra</td>
-		<td>677</td>
-		<td>677</td>
+		<td>680</td>
+		<td>680</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -775,7 +775,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>7</td>
-		<td>435</td>
+		<td>436</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -1978,8 +1978,8 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CodesKorede">CodesKorede</a></td>
 		<td>Andorra la Vella, Andorra</td>
-		<td>7</td>
-		<td>7</td>
+		<td>8</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -2446,6 +2446,20 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>168</td>
 		<td>
+			<a href="https://github.com/Japtron-Sec">
+				<img src="https://avatars.githubusercontent.com/u/97803191?s=72&u=5e1075e5ce7ca28351349e0b09a7f1646d361095&v=4" width="24" alt="Avatar of Japtron-Sec"> Japtron-Sec
+			</a><br/>
+			Japtron
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra, Spain, World</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
 			<a href="https://github.com/clowdray">
 				<img src="https://avatars.githubusercontent.com/u/46500919?s=72&u=b28884897eab23e6588156c926191990b766552a&v=4" width="24" alt="Avatar of clowdray"> clowdray
 			</a><br/>
@@ -2458,7 +2472,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/bcarvalhob">
 				<img src="https://avatars.githubusercontent.com/u/206083304?s=72&v=4" width="24" alt="Avatar of bcarvalhob"> bcarvalhob
@@ -2472,7 +2486,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/ltrapero">
 				<img src="https://avatars.githubusercontent.com/u/72495766?s=72&u=fcbceb4f34bdbd9091a136b46f35b44eb1233159&v=4" width="24" alt="Avatar of ltrapero"> ltrapero
@@ -2486,7 +2500,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/adria-pl">
 				<img src="https://avatars.githubusercontent.com/u/58998938?s=72&u=e9c0801f43c1d072c6eb92525b41aa5f919e1214&v=4" width="24" alt="Avatar of adria-pl"> adria-pl
@@ -2500,7 +2514,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/jgimeno">
 				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
@@ -2514,7 +2528,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/cadetill">
 				<img src="https://avatars.githubusercontent.com/u/1529242?s=72&u=c7d7d04e1a24504d026f30144653552536626b0e&v=4" width="24" alt="Avatar of cadetill"> cadetill
@@ -2528,7 +2542,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/francrodriguez">
 				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
@@ -2542,7 +2556,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/agustinramos">
 				<img src="https://avatars.githubusercontent.com/u/22509950?s=72&u=34d832cc33649c629230ee2ab2fc8b23d0624329&v=4" width="24" alt="Avatar of agustinramos"> agustinramos
@@ -2556,7 +2570,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/Robgher">
 				<img src="https://avatars.githubusercontent.com/u/57107892?s=72&u=e3ef3a77482a063578341c807925eb40c0d6cf05&v=4" width="24" alt="Avatar of Robgher"> Robgher
@@ -2570,7 +2584,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/cajimhe">
 				<img src="https://avatars.githubusercontent.com/u/1227706?s=72&u=5790abd908ce8df8992ecf202b8498caacadbdd2&v=4" width="24" alt="Avatar of cajimhe"> cajimhe
@@ -2584,7 +2598,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/CondeOveros">
 				<img src="https://avatars.githubusercontent.com/u/20837131?s=72&u=02e6ab774413342b4d24fff7a94a46c6d1a9ad17&v=4" width="24" alt="Avatar of CondeOveros"> CondeOveros
@@ -2598,7 +2612,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/ciberseguret">
 				<img src="https://avatars.githubusercontent.com/u/209025101?s=72&u=c1d13f1cd30b5212ef1791bfe3e20efa2b869520&v=4" width="24" alt="Avatar of ciberseguret"> ciberseguret
@@ -2612,7 +2626,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/OrbyCode">
 				<img src="https://avatars.githubusercontent.com/u/167002224?s=72&u=ce09bc6be4468a40e8798b17ef14889320dab873&v=4" width="24" alt="Avatar of OrbyCode"> OrbyCode
@@ -2626,7 +2640,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/OnlineOnAllTime">
 				<img src="https://avatars.githubusercontent.com/u/107973259?s=72&u=0dd87ec981904ea8389070dc26453749b5a46d52&v=4" width="24" alt="Avatar of OnlineOnAllTime"> OnlineOnAllTime
@@ -2640,7 +2654,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/ikerblac">
 				<img src="https://avatars.githubusercontent.com/u/37939870?s=72&u=9b335b15ed412618ce93fd2d0d31e85130c41406&v=4" width="24" alt="Avatar of ikerblac"> ikerblac
@@ -2654,7 +2668,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/remintuu">
 				<img src="https://avatars.githubusercontent.com/u/220876011?s=72&v=4" width="24" alt="Avatar of remintuu"> remintuu
@@ -2668,7 +2682,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/xpique">
 				<img src="https://avatars.githubusercontent.com/u/7466228?s=72&u=e788ae4e588b526e7a1adc9faee30ceef52d3b10&v=4" width="24" alt="Avatar of xpique"> xpique
@@ -2682,7 +2696,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/asptecnic">
 				<img src="https://avatars.githubusercontent.com/u/217071940?s=72&v=4" width="24" alt="Avatar of asptecnic"> asptecnic
@@ -2696,7 +2710,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/travesset">
 				<img src="https://avatars.githubusercontent.com/u/22983425?s=72&u=741a55f37182c999ca256ef57181308c0074e7bf&v=4" width="24" alt="Avatar of travesset"> travesset
@@ -2710,7 +2724,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/marciglesias17">
 				<img src="https://avatars.githubusercontent.com/u/11599153?s=72&u=2f0c2900daf90d1e142fc9cf92914193255abee2&v=4" width="24" alt="Avatar of marciglesias17"> marciglesias17
@@ -2720,20 +2734,6 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Cubepath Inc. </td>
 		<td><a href="https://twitter.com/marciglesias17">marciglesias17</a></td>
 		<td>Andorra</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/Japtron-Sec">
-				<img src="https://avatars.githubusercontent.com/u/97803191?s=72&u=5e1075e5ce7ca28351349e0b09a7f1646d361095&v=4" width="24" alt="Avatar of Japtron-Sec"> Japtron-Sec
-			</a><br/>
-			Japtron
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra, Spain, World</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -2810,12 +2810,12 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>194</td>
 		<td>
-			<a href="https://github.com/OliverTOP">
-				<img src="https://avatars.githubusercontent.com/u/215564759?s=72&u=19eb7478dc7400b40b188cf4e5bf68dda8d28e44&v=4" width="24" alt="Avatar of OliverTOP"> OliverTOP
+			<a href="https://github.com/nunuhoms">
+				<img src="https://avatars.githubusercontent.com/u/130580636?s=72&u=ea13143d23b1a4540e3d3ae03adf8ade26dea17e&v=4" width="24" alt="Avatar of nunuhoms"> nunuhoms
 			</a><br/>
-			Oliver Bocanegra
+			Nuria Homs Duró
 		</td>
-		<td>Top Global </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
@@ -2824,12 +2824,12 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>195</td>
 		<td>
-			<a href="https://github.com/nunuhoms">
-				<img src="https://avatars.githubusercontent.com/u/130580636?s=72&u=ea13143d23b1a4540e3d3ae03adf8ade26dea17e&v=4" width="24" alt="Avatar of nunuhoms"> nunuhoms
+			<a href="https://github.com/OliverTOP">
+				<img src="https://avatars.githubusercontent.com/u/215564759?s=72&u=19eb7478dc7400b40b188cf4e5bf68dda8d28e44&v=4" width="24" alt="Avatar of OliverTOP"> OliverTOP
 			</a><br/>
-			Nuria Homs Duró
+			Oliver Bocanegra
 		</td>
-		<td>No Company</td>
+		<td>Top Global </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
