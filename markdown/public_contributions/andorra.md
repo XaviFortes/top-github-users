@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/1/30 8:21 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/1/30 11:19 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `448 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cowprotocol, @wanderwallet </td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra</td>
-		<td>1493</td>
+		<td>1495</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1121,6 +1121,19 @@ There are `448 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/acastellana">
+				<img src="https://avatars.githubusercontent.com/u/4104509?s=72&u=007eda1e25a421608bb2caf5cfc74296bc74c3cb&v=4" width="24" alt="Avatar of acastellana"> acastellana
+			</a><br/>
+			Albert Castellana
+		</td>
+		<td>@yeagerai </td>
+		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
+		<td>Andorra</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/jennywfo">
 				<img src="https://avatars.githubusercontent.com/u/114223410?s=72&u=2c9f5e005c26bee3cfd043c8335c9e8a7856b5a0&v=4" width="24" alt="Avatar of jennywfo"> jennywfo
 			</a><br/>
@@ -1132,7 +1145,7 @@ There are `448 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/ColColty">
 				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
@@ -1143,19 +1156,6 @@ There are `448 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>20</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/acastellana">
-				<img src="https://avatars.githubusercontent.com/u/4104509?s=72&u=007eda1e25a421608bb2caf5cfc74296bc74c3cb&v=4" width="24" alt="Avatar of acastellana"> acastellana
-			</a><br/>
-			Albert Castellana
-		</td>
-		<td>@yeagerai </td>
-		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
-		<td>Andorra</td>
-		<td>19</td>
 	</tr>
 	<tr>
 		<td>82</td>
