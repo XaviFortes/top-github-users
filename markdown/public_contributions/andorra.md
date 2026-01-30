@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/1/30 2:29 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/1/30 5:28 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
-There are `447 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `448 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -471,6 +471,19 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/AdamBaali">
+				<img src="https://avatars.githubusercontent.com/u/45665341?s=72&u=cb1d24781c90eb35a0eeecee36f8628fd5360081&v=4" width="24" alt="Avatar of AdamBaali"> AdamBaali
+			</a><br/>
+			Adam Baali
+		</td>
+		<td>Mountain Path Consulting </td>
+		<td>No Twitter Username</td>
+		<td>Ordino, Andorra</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/xdaniortega">
 				<img src="https://avatars.githubusercontent.com/u/48654090?s=72&u=657ed71ab5583413d2534614d931b6b586376c14&v=4" width="24" alt="Avatar of xdaniortega"> xdaniortega
 			</a><br/>
@@ -482,7 +495,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/fjhidalgo-coding">
 				<img src="https://avatars.githubusercontent.com/u/173829888?s=72&u=e7ec33fdf077ee5bf71e182d0c88dcd70349b539&v=4" width="24" alt="Avatar of fjhidalgo-coding"> fjhidalgo-coding
@@ -492,19 +505,6 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fjhidalgo">fjhidalgo</a></td>
 		<td>Santa Coloma de Gramenet</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/AdamBaali">
-				<img src="https://avatars.githubusercontent.com/u/45665341?s=72&u=cb1d24781c90eb35a0eeecee36f8628fd5360081&v=4" width="24" alt="Avatar of AdamBaali"> AdamBaali
-			</a><br/>
-			Adam Baali
-		</td>
-		<td>Mountain Path Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Ordino, Andorra</td>
 		<td>98</td>
 	</tr>
 	<tr>
@@ -1155,7 +1155,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@yeagerai </td>
 		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
 		<td>Andorra</td>
-		<td>17</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1186,6 +1186,19 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>84</td>
 		<td>
+			<a href="https://github.com/peg500and">
+				<img src="https://avatars.githubusercontent.com/u/44753255?s=72&u=0cc153b1278000d2a30b5f8a1fb85f37812915dc&v=4" width="24" alt="Avatar of peg500and"> peg500and
+			</a><br/>
+			Erol GIRAUDY
+		</td>
+		<td>U-gaia </td>
+		<td><a href="https://twitter.com/ErolGiraudy">ErolGiraudy</a></td>
+		<td>Andorra </td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
 			<a href="https://github.com/real-felix">
 				<img src="https://avatars.githubusercontent.com/u/18555389?s=72&u=745d1118af9971e7256940f2a28723bbb548cd72&v=4" width="24" alt="Avatar of real-felix"> real-felix
 			</a><br/>
@@ -1197,7 +1210,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/maricarmenmartingomez">
 				<img src="https://avatars.githubusercontent.com/u/50134825?s=72&u=365228cbd4646b38bf90d7e7cb216e8f17bdd6b8&v=4" width="24" alt="Avatar of maricarmenmartingomez"> maricarmenmartingomez
@@ -1210,7 +1223,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/GRKdev">
 				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=ade1b72f06e3c23c3d6aa5412db5de94af9ef723&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
@@ -1223,7 +1236,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/sebelga">
 				<img src="https://avatars.githubusercontent.com/u/2854616?s=72&u=59e7db7bb1c1eaab8773bc000a19f7d5ae294e55&v=4" width="24" alt="Avatar of sebelga"> sebelga
@@ -1236,7 +1249,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/zhmailikvadim">
 				<img src="https://avatars.githubusercontent.com/u/56409854?s=72&u=cc5e9593d5301909ba34723614cffc8e3fbb6856&v=4" width="24" alt="Avatar of zhmailikvadim"> zhmailikvadim
@@ -1246,19 +1259,6 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/peg500and">
-				<img src="https://avatars.githubusercontent.com/u/44753255?s=72&u=0cc153b1278000d2a30b5f8a1fb85f37812915dc&v=4" width="24" alt="Avatar of peg500and"> peg500and
-			</a><br/>
-			Erol GIRAUDY
-		</td>
-		<td>U-gaia </td>
-		<td><a href="https://twitter.com/ErolGiraudy">ErolGiraudy</a></td>
-		<td>Andorra </td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -2434,6 +2434,19 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>180</td>
 		<td>
+			<a href="https://github.com/bergillosfranc-web">
+				<img src="https://avatars.githubusercontent.com/u/247205092?s=72&u=577a84ae362e19e4a1eb486d9de8065ac11b84f7&v=4" width="24" alt="Avatar of bergillosfranc-web"> bergillosfranc-web
+			</a><br/>
+			BergiBoom
+		</td>
+		<td>Bergiapps </td>
+		<td>No Twitter Username</td>
+		<td>C Joan XXIII, nº11 SANTA COLOMA DE CERVELLO - BARCELONA - SPAIN</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
 			<a href="https://github.com/carlospsfni">
 				<img src="https://avatars.githubusercontent.com/u/136785807?s=72&u=67c49d34d76e81b7e34f9dd1d1f7c3c034cc39b1&v=4" width="24" alt="Avatar of carlospsfni"> carlospsfni
 			</a><br/>
@@ -2445,7 +2458,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/claudi-amorim">
 				<img src="https://avatars.githubusercontent.com/u/205952526?s=72&v=4" width="24" alt="Avatar of claudi-amorim"> claudi-amorim
@@ -2458,7 +2471,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/asegarra-countellis">
 				<img src="https://avatars.githubusercontent.com/u/251996618?s=72&u=21bd851c0e9b7382d39d4f3409675d47065faf65&v=4" width="24" alt="Avatar of asegarra-countellis"> asegarra-countellis
@@ -2471,7 +2484,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/rbausili-intecom">
 				<img src="https://avatars.githubusercontent.com/u/227799419?s=72&u=7c7ae6f34e8f7f800e373ff54aad513293754239&v=4" width="24" alt="Avatar of rbausili-intecom"> rbausili-intecom
@@ -2484,7 +2497,7 @@ There are `447 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Goma1984">
 				<img src="https://avatars.githubusercontent.com/u/151690772?s=72&v=4" width="24" alt="Avatar of Goma1984"> Goma1984
