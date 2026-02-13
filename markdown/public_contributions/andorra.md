@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/2/13 7:45 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/2/13 10:33 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
-There are `450 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `451 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1160,6 +1160,19 @@ There are `450 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/Andormix">
+				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
+			</a><br/>
+			Eric Torrontera Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/peg500and">
 				<img src="https://avatars.githubusercontent.com/u/44753255?s=72&u=0cc153b1278000d2a30b5f8a1fb85f37812915dc&v=4" width="24" alt="Avatar of peg500and"> peg500and
 			</a><br/>
@@ -1169,19 +1182,6 @@ There are `450 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/ErolGiraudy">ErolGiraudy</a></td>
 		<td>Andorra </td>
 		<td>18</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/Andormix">
-				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
-			</a><br/>
-			Eric Torrontera Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>17</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -2408,19 +2408,6 @@ There are `450 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/olivierdheur">
-				<img src="https://avatars.githubusercontent.com/u/16079606?s=72&v=4" width="24" alt="Avatar of olivierdheur"> olivierdheur
-			</a><br/>
-			Olivier
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ordino, Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
 			<a href="https://github.com/bergillosfranc-web">
 				<img src="https://avatars.githubusercontent.com/u/247205092?s=72&u=577a84ae362e19e4a1eb486d9de8065ac11b84f7&v=4" width="24" alt="Avatar of bergillosfranc-web"> bergillosfranc-web
 			</a><br/>
@@ -2429,6 +2416,19 @@ There are `450 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Bergiapps </td>
 		<td>No Twitter Username</td>
 		<td>C Joan XXIII, nº11 SANTA COLOMA DE CERVELLO - BARCELONA - SPAIN</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/olivierdheur">
+				<img src="https://avatars.githubusercontent.com/u/16079606?s=72&v=4" width="24" alt="Avatar of olivierdheur"> olivierdheur
+			</a><br/>
+			Olivier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ordino, Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
