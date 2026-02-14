@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2026/2/14 1:40 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2026/2/14 4:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -131,7 +131,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>181</td>
-		<td>9157</td>
+		<td>9158</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>23</td>
-		<td>3545</td>
+		<td>3549</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>25</td>
-		<td>2379</td>
+		<td>2380</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -215,7 +215,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1129</td>
-		<td>2244</td>
+		<td>2245</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -243,7 +243,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>1893</td>
+		<td>1896</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -411,7 +411,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>3</td>
-		<td>1219</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -537,7 +537,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>9</td>
-		<td>764</td>
+		<td>765</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -635,7 +635,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/prrrcl">prrrcl</a></td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>631</td>
+		<td>635</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1433,7 +1433,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>48</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1494,6 +1494,20 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>100</td>
 		<td>
+			<a href="https://github.com/Andormix">
+				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
+			</a><br/>
+			Eric Torrontera Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>35</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
 			<a href="https://github.com/lmfaogotdeleted">
 				<img src="https://avatars.githubusercontent.com/u/103111817?s=72&u=0d5fa46bafb7317e836e342f30acd7687bef7774&v=4" width="24" alt="Avatar of lmfaogotdeleted"> lmfaogotdeleted
 			</a><br/>
@@ -1506,7 +1520,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/Jordanmacia">
 				<img src="https://avatars.githubusercontent.com/u/135045913?s=72&u=27cc6ff48f4a8e74b971a9386d7564f5c8a27aef&v=4" width="24" alt="Avatar of Jordanmacia"> Jordanmacia
@@ -1517,20 +1531,6 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra | Toulouse</td>
 		<td>24</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/Andormix">
-				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
-			</a><br/>
-			Eric Torrontera Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>33</td>
 		<td>33</td>
 	</tr>
 	<tr>
