@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/2/16 5:34 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/2/16 8:21 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -466,7 +466,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@yeagerai </td>
 		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
 		<td>Andorra</td>
-		<td>37</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -2278,10 +2278,10 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>168</td>
 		<td>
-			<a href="https://github.com/sebasakd86">
-				<img src="https://avatars.githubusercontent.com/u/17504684?s=72&u=f8a868815b914c0e49fcfb72e1c545fd1db51ca3&v=4" width="24" alt="Avatar of sebasakd86"> sebasakd86
+			<a href="https://github.com/Andormix">
+				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
 			</a><br/>
-			Sebas
+			Eric Torrontera Ruiz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2291,10 +2291,10 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>169</td>
 		<td>
-			<a href="https://github.com/Andormix">
-				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
+			<a href="https://github.com/sebasakd86">
+				<img src="https://avatars.githubusercontent.com/u/17504684?s=72&u=f8a868815b914c0e49fcfb72e1c545fd1db51ca3&v=4" width="24" alt="Avatar of sebasakd86"> sebasakd86
 			</a><br/>
-			Eric Torrontera Ruiz
+			Sebas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
