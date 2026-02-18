@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/2/18 5:57 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/2/18 8:36 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -258,7 +258,7 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@giantswarm </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -562,6 +562,19 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>36</td>
 		<td>
+			<a href="https://github.com/Andormix">
+				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
+			</a><br/>
+			Eric Torrontera Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
 			<a href="https://github.com/danielsaboridotorresia">
 				<img src="https://avatars.githubusercontent.com/u/170444103?s=72&u=700a9f264256488836513026cdfdd4e84f3651e8&v=4" width="24" alt="Avatar of danielsaboridotorresia"> danielsaboridotorresia
 			</a><br/>
@@ -571,19 +584,6 @@ There are `451 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>La Massana, Andorra</td>
 		<td>87</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/Andormix">
-				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
-			</a><br/>
-			Eric Torrontera Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>83</td>
 	</tr>
 	<tr>
 		<td>38</td>
