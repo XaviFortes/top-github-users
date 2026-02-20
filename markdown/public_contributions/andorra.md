@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/2/20 2:36 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/2/20 5:32 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cowprotocol, @wanderwallet </td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra</td>
-		<td>1503</td>
+		<td>1505</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1433,6 +1433,19 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>103</td>
 		<td>
+			<a href="https://github.com/Verso68">
+				<img src="https://avatars.githubusercontent.com/u/22826061?s=72&u=deb38ebc78a17b3a8cc37ec345dcd5563e3c314f&v=4" width="24" alt="Avatar of Verso68"> Verso68
+			</a><br/>
+			Pau
+		</td>
+		<td>Digital Lab Cp </td>
+		<td><a href="https://twitter.com/pau4navarro">pau4navarro</a></td>
+		<td>Andorra</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
 			<a href="https://github.com/101aero">
 				<img src="https://avatars.githubusercontent.com/u/245447759?s=72&u=5d11c60c772eab7d8e0b40ce23ae7b4391671b50&v=4" width="24" alt="Avatar of 101aero"> 101aero
 			</a><br/>
@@ -1444,7 +1457,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/koredecodes">
 				<img src="https://avatars.githubusercontent.com/u/118663191?s=72&u=9ed3cc4e1be47ee532b1ab84da66bf29585e1340&v=4" width="24" alt="Avatar of koredecodes"> koredecodes
@@ -1457,7 +1470,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/alexenc">
 				<img src="https://avatars.githubusercontent.com/u/80543940?s=72&u=0fc0c7250eed95422e1aebe4e22909e9ff4345fa&v=4" width="24" alt="Avatar of alexenc"> alexenc
@@ -1470,7 +1483,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
@@ -1483,7 +1496,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/paupenin">
 				<img src="https://avatars.githubusercontent.com/u/7164261?s=72&u=de0b0aff619e5ea1b499bd7bce4392eea230de66&v=4" width="24" alt="Avatar of paupenin"> paupenin
@@ -1496,7 +1509,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/IzanDev2007">
 				<img src="https://avatars.githubusercontent.com/u/185335539?s=72&u=a7dafbcc086bdbcd26f72534590455baea43b475&v=4" width="24" alt="Avatar of IzanDev2007"> IzanDev2007
@@ -1509,7 +1522,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/TKuzmenko-EPS">
 				<img src="https://avatars.githubusercontent.com/u/205192481?s=72&u=be3e5edb72a7c6064003a726f1eefc22cdc32395&v=4" width="24" alt="Avatar of TKuzmenko-EPS"> TKuzmenko-EPS
@@ -1518,19 +1531,6 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/Verso68">
-				<img src="https://avatars.githubusercontent.com/u/22826061?s=72&u=deb38ebc78a17b3a8cc37ec345dcd5563e3c314f&v=4" width="24" alt="Avatar of Verso68"> Verso68
-			</a><br/>
-			Pau
-		</td>
-		<td>Digital Lab Cp </td>
-		<td><a href="https://twitter.com/pau4navarro">pau4navarro</a></td>
 		<td>Andorra</td>
 		<td>7</td>
 	</tr>
