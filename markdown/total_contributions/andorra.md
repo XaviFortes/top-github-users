@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2026/2/21 7:27 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2026/2/21 10:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -271,7 +271,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>20</td>
-		<td>1790</td>
+		<td>1792</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -340,8 +340,8 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>90p Lab </td>
 		<td><a href="https://twitter.com/Jorge__SVQ">Jorge__SVQ</a></td>
 		<td>Escaldes, Andorra</td>
-		<td>90</td>
-		<td>1475</td>
+		<td>91</td>
+		<td>1476</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1391,7 +1391,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>60</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>93</td>

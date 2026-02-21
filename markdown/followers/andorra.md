@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/2/21 7:27 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/2/21 10:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -2187,19 +2187,6 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>161</td>
 		<td>
-			<a href="https://github.com/sitnesTIC">
-				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
-			</a><br/>
-			Gerard Sentís
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sitnestic">sitnestic</a></td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
 			<a href="https://github.com/CondeOveros">
 				<img src="https://avatars.githubusercontent.com/u/20837131?s=72&u=02e6ab774413342b4d24fff7a94a46c6d1a9ad17&v=4" width="24" alt="Avatar of CondeOveros"> CondeOveros
 			</a><br/>
@@ -2208,6 +2195,19 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Offiselit </td>
 		<td>No Twitter Username</td>
 		<td>Principality of Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/sitnesTIC">
+				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
+			</a><br/>
+			Gerard Sentís
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sitnestic">sitnestic</a></td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
