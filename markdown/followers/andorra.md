@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/2/26 6:40 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/2/26 9:27 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -1577,7 +1577,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>114</td>
 		<td>
 			<a href="https://github.com/MartaSanchez">
-				<img src="https://avatars.githubusercontent.com/u/17227592?s=72&u=eebacf1e215354f48ab27ae3de4b7a00e1137286&v=4" width="24" alt="Avatar of MartaSanchez"> MartaSanchez
+				<img src="https://avatars.githubusercontent.com/u/17227592?s=72&u=a8e88bc0cbc95f090f2029411982607cb8440ca2&v=4" width="24" alt="Avatar of MartaSanchez"> MartaSanchez
 			</a><br/>
 			Marta Sanchez
 		</td>
