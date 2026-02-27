@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2026/2/27 6:41 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2026/2/27 9:33 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -913,6 +913,19 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>63</td>
 		<td>
+			<a href="https://github.com/tombrewsviews">
+				<img src="https://avatars.githubusercontent.com/u/3190986?s=72&u=5dfb8f6c2ef897a0caa3bf2b6acdeae4a4b821b9&v=4" width="24" alt="Avatar of tombrewsviews"> tombrewsviews
+			</a><br/>
+			Tom Parandyk
+		</td>
+		<td>Altramanera </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
 			<a href="https://github.com/francrodriguez">
 				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
 			</a><br/>
@@ -922,19 +935,6 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/franc">franc</a></td>
 		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>13</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/tombrewsviews">
-				<img src="https://avatars.githubusercontent.com/u/3190986?s=72&u=5dfb8f6c2ef897a0caa3bf2b6acdeae4a4b821b9&v=4" width="24" alt="Avatar of tombrewsviews"> tombrewsviews
-			</a><br/>
-			Tom Parandyk
-		</td>
-		<td>Altramanera </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>12</td>
 	</tr>
 	<tr>
 		<td>65</td>
