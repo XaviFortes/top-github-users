@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2026/2/28 8:17 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2026/2/28 11:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -285,7 +285,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/Jorge__SVQ">Jorge__SVQ</a></td>
 		<td>Escaldes, Andorra</td>
 		<td>115</td>
-		<td>1664</td>
+		<td>1668</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -887,7 +887,7 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>14</td>
-		<td>364</td>
+		<td>373</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1032,20 +1032,6 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/GPradaT">
-				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
-			</a><br/>
-			Guillem Prada Torres
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-		<td>188</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
 			<a href="https://github.com/Andormix">
 				<img src="https://avatars.githubusercontent.com/u/71731996?s=72&u=0656951a5d558cb0cb4fddd33833ecc9fb2b26bc&v=4" width="24" alt="Avatar of Andormix"> Andormix
 			</a><br/>
@@ -1055,6 +1041,20 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>3</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/GPradaT">
+				<img src="https://avatars.githubusercontent.com/u/134978329?s=72&u=32e7b4384c603e2facc977065f8bf925296ac91c&v=4" width="24" alt="Avatar of GPradaT"> GPradaT
+			</a><br/>
+			Guillem Prada Torres
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>1</td>
 		<td>188</td>
 	</tr>
 	<tr>
@@ -1558,8 +1558,8 @@ There are `453 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1wise.es </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>32</td>
-		<td>32</td>
+		<td>33</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>105</td>
