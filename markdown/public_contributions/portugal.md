@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` by users in Portugal on `2026/3/7 5:03 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` by users in Portugal on `2026/3/7 8:26 AM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>Lfg Labs </td>
 		<td><a href="https://twitter.com/Th0rgal_">Th0rgal_</a></td>
 		<td>Lisbon</td>
-		<td>7437</td>
+		<td>7506</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ruiglopes">ruiglopes</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>3889</td>
+		<td>3913</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -817,7 +817,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>@rocketchat  </td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, Brazil</td>
-		<td>1054</td>
+		<td>1055</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1012,7 +1012,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>Second.tech </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>931</td>
+		<td>932</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -2013,7 +2013,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>Rocket.chat </td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre</td>
-		<td>497</td>
+		<td>498</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2299,7 +2299,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>415</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -6373,6 +6373,19 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 	<tr>
 		<td>483</td>
 		<td>
+			<a href="https://github.com/lucasmonstrox">
+				<img src="https://avatars.githubusercontent.com/u/1239463?s=72&u=63cfb8adbce4ad852c30196d767c24ec4e97aeb1&v=4" width="24" alt="Avatar of lucasmonstrox"> lucasmonstrox
+			</a><br/>
+			Lucas Monstro
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lucasmonstrox">lucasmonstrox</a></td>
+		<td>Gaia, Portugal</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
 			<a href="https://github.com/goncalopolido">
 				<img src="https://avatars.githubusercontent.com/u/83615960?s=72&u=67862d89721f359e19a23028c3909d653c2faed3&v=4" width="24" alt="Avatar of goncalopolido"> goncalopolido
 			</a><br/>
@@ -6384,7 +6397,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/eduubessa">
 				<img src="https://avatars.githubusercontent.com/u/11879633?s=72&u=90694411fb88de4eea22c7bd921b6ea395d1d3e7&v=4" width="24" alt="Avatar of eduubessa"> eduubessa
@@ -6397,7 +6410,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/felipythondev">
 				<img src="https://avatars.githubusercontent.com/u/5021565?s=72&u=577d53ced5340e4986d95dae7251e9e68ab587a7&v=4" width="24" alt="Avatar of felipythondev"> felipythondev
@@ -6410,7 +6423,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/marceloabbadia">
 				<img src="https://avatars.githubusercontent.com/u/112344339?s=72&u=47086f82829e04a024b13bf081ccc2d5bc040c91&v=4" width="24" alt="Avatar of marceloabbadia"> marceloabbadia
@@ -6423,7 +6436,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/Jorge-Neves">
 				<img src="https://avatars.githubusercontent.com/u/86286519?s=72&u=d0166d8a4705eade7057af72df67b8d6abba755c&v=4" width="24" alt="Avatar of Jorge-Neves"> Jorge-Neves
@@ -6436,7 +6449,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/nategeier">
 				<img src="https://avatars.githubusercontent.com/u/838839?s=72&u=f8c888f7984d9698ac4a7146fea4041aa1a0a1fe&v=4" width="24" alt="Avatar of nategeier"> nategeier
@@ -6449,7 +6462,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/andreeerod">
 				<img src="https://avatars.githubusercontent.com/u/100169913?s=72&u=b577972db8a4bec00858a03f2dd9f0c738cb7bfd&v=4" width="24" alt="Avatar of andreeerod"> andreeerod
@@ -6462,7 +6475,7 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/xiCO2k">
 				<img src="https://avatars.githubusercontent.com/u/823088?s=72&u=768a97e9a30e6b33fbb2a5b7bc1973e6e8094b72&v=4" width="24" alt="Avatar of xiCO2k"> xiCO2k
@@ -6472,19 +6485,6 @@ There are `963 users`  in Portugal. You need at least `78 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xico2k">xico2k</a></td>
 		<td>Portugal</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/lucasmonstrox">
-				<img src="https://avatars.githubusercontent.com/u/1239463?s=72&u=63cfb8adbce4ad852c30196d767c24ec4e97aeb1&v=4" width="24" alt="Avatar of lucasmonstrox"> lucasmonstrox
-			</a><br/>
-			Lucas Monstro
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lucasmonstrox">lucasmonstrox</a></td>
-		<td>Gaia, Portugal</td>
 		<td>53</td>
 	</tr>
 	<tr>
