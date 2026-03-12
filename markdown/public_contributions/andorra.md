@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/3/12 3:34 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/3/12 7:42 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -232,7 +232,7 @@ There are `459 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Telecom </td>
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
 		<td>Andorra</td>
-		<td>423</td>
+		<td>425</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -882,7 +882,7 @@ There are `459 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@yeagerai </td>
 		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
 		<td>Andorra</td>
-		<td>40</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>61</td>
