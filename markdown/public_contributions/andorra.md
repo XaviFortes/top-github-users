@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2026/3/19 9:36 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2026/3/19 12:39 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `3 countries` and `13 cities` can be found [here](https://github.com/XaviFortes/top-github-users).
 
@@ -128,7 +128,7 @@ There are `460 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cowprotocol, @wanderwallet </td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra</td>
-		<td>1401</td>
+		<td>1404</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -835,6 +835,19 @@ There are `460 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/akurkin">
+				<img src="https://avatars.githubusercontent.com/u/88654?s=72&u=3e33fecdb9c8657ad2c326443ad2c7e8b65ceab2&v=4" width="24" alt="Avatar of akurkin"> akurkin
+			</a><br/>
+			Alex Kurkin
+		</td>
+		<td>@teambrilliant </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/ailtonluiz">
 				<img src="https://avatars.githubusercontent.com/u/12979391?s=72&u=80e66110dafc7102b58004b5b9ecb333585f9106&v=4" width="24" alt="Avatar of ailtonluiz"> ailtonluiz
 			</a><br/>
@@ -844,19 +857,6 @@ There are `460 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/ailtonluiz_">ailtonluiz_</a></td>
 		<td>Pas de la Casa - Andorra</td>
 		<td>44</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/akurkin">
-				<img src="https://avatars.githubusercontent.com/u/88654?s=72&u=3e33fecdb9c8657ad2c326443ad2c7e8b65ceab2&v=4" width="24" alt="Avatar of akurkin"> akurkin
-			</a><br/>
-			Alex Kurkin
-		</td>
-		<td>@teambrilliant </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>43</td>
 	</tr>
 	<tr>
 		<td>59</td>
